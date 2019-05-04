@@ -1,0 +1,4 @@
+Samotne XML nebylo validni (kurvy Turcinci)
+- bylo potreba nahradit vsechny & => &amp;
+- bylo potreba vlozit root tag (napr. tag data)
+- XML jsem nasledne zformatoval zde https://www.freeformatter.com/xml-formatter.html

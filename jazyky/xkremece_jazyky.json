@@ -1,0 +1,42 @@
+{
+  "xkremece_jazyky1":{
+    "jazyky_id": 1,
+    "nazev": "čeština"
+  },
+  "xkremece_jazyky2":{
+    "jazyky_id": 2,
+    "nazev": "angličtina"
+  },
+  "xkremece_jazyky3":{
+    "jazyky_id": 3,
+    "nazev": "němčina"
+  },
+  "xkremece_jazyky4":{
+    "jazyky_id": 4,
+    "nazev": "španělština"
+  },
+  "xkremece_jazyky5":{
+    "jazyky_id": 5,
+    "nazev": "francouzština"
+  },
+  "xkremece_jazyky6":{
+    "jazyky_id": 6,
+    "nazev": "italština"
+  },
+  "xkremece_jazyky7":{
+    "jazyky_id": 7,
+    "nazev": "ruština"
+  },
+  "xkremece_jazyky8":{
+    "jazyky_id": 8,
+    "nazev": "portugalština"
+  },
+  "xkremece_jazyky9":{
+    "jazyky_id": 9,
+    "nazev": "slovenština"
+  },
+  "xkremece_jazyky10":{
+    "jazyky_id": 10,
+    "nazev": "finština"
+  }
+}

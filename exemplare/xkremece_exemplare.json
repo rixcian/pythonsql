@@ -1,0 +1,9202 @@
+{
+  "xkremece_exemplare":{
+    "exemplare_id": 2,
+    "knihy_id": 1371,
+    "osoby_id": 40,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7,
+    "knihy_id": 473,
+    "osoby_id": 101,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11,
+    "knihy_id": 743,
+    "osoby_id": 165,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 26,
+    "knihy_id": 1358,
+    "osoby_id": 70,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 27,
+    "knihy_id": 984,
+    "osoby_id": 564,
+    "poznamka": Některé stánky jsou potrhané,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 37,
+    "knihy_id": 33,
+    "osoby_id": 527,
+    "poznamka": Zamluvená,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 39,
+    "knihy_id": 1173,
+    "osoby_id": 365,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 57,
+    "knihy_id": 1239,
+    "osoby_id": 314,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 66,
+    "knihy_id": 129,
+    "osoby_id": 470,
+    "poznamka": Zamluvená,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 75,
+    "knihy_id": 1202,
+    "osoby_id": 377,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 76,
+    "knihy_id": 1371,
+    "osoby_id": 278,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 81,
+    "knihy_id": 937,
+    "osoby_id": 70,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 100,
+    "knihy_id": 378,
+    "osoby_id": 422,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 137,
+    "knihy_id": 806,
+    "osoby_id": 218,
+    "poznamka": Chybí některé strany,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 142,
+    "knihy_id": 1481,
+    "osoby_id": 271,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 148,
+    "knihy_id": 758,
+    "osoby_id": 363,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 152,
+    "knihy_id": 876,
+    "osoby_id": 429,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 158,
+    "knihy_id": 756,
+    "osoby_id": 281,
+    "poznamka": Některé stánky jsou potrhané,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 159,
+    "knihy_id": 185,
+    "osoby_id": 383,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 164,
+    "knihy_id": 312,
+    "osoby_id": 535,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 165,
+    "knihy_id": 1233,
+    "osoby_id": 4,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 171,
+    "knihy_id": 788,
+    "osoby_id": 383,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 183,
+    "knihy_id": 418,
+    "osoby_id": 445,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 188,
+    "knihy_id": 1092,
+    "osoby_id": 98,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 194,
+    "knihy_id": 812,
+    "osoby_id": 99,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 227,
+    "knihy_id": 246,
+    "osoby_id": 300,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 242,
+    "knihy_id": 1133,
+    "osoby_id": 559,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 253,
+    "knihy_id": 312,
+    "osoby_id": 488,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 261,
+    "knihy_id": 455,
+    "osoby_id": 342,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 268,
+    "knihy_id": 1031,
+    "osoby_id": 564,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 293,
+    "knihy_id": 285,
+    "osoby_id": 26,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 309,
+    "knihy_id": 904,
+    "osoby_id": 296,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 327,
+    "knihy_id": 471,
+    "osoby_id": 492,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 341,
+    "knihy_id": 937,
+    "osoby_id": 204,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 342,
+    "knihy_id": 51,
+    "osoby_id": 79,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 344,
+    "knihy_id": 947,
+    "osoby_id": 74,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 351,
+    "knihy_id": 451,
+    "osoby_id": 199,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 364,
+    "knihy_id": 989,
+    "osoby_id": 143,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 368,
+    "knihy_id": 253,
+    "osoby_id": 522,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 390,
+    "knihy_id": 1514,
+    "osoby_id": 248,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 392,
+    "knihy_id": 240,
+    "osoby_id": 417,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 406,
+    "knihy_id": 1026,
+    "osoby_id": 56,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 421,
+    "knihy_id": 520,
+    "osoby_id": 333,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 425,
+    "knihy_id": 652,
+    "osoby_id": 59,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 446,
+    "knihy_id": 439,
+    "osoby_id": 529,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 463,
+    "knihy_id": 117,
+    "osoby_id": 357,
+    "poznamka": Chybí některé strany,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 465,
+    "knihy_id": 1191,
+    "osoby_id": 156,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 474,
+    "knihy_id": 1514,
+    "osoby_id": 140,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 476,
+    "knihy_id": 1514,
+    "osoby_id": 539,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 490,
+    "knihy_id": 807,
+    "osoby_id": 346,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 503,
+    "knihy_id": 411,
+    "osoby_id": 498,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 507,
+    "knihy_id": 433,
+    "osoby_id": 121,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 510,
+    "knihy_id": 1486,
+    "osoby_id": 237,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 512,
+    "knihy_id": 1224,
+    "osoby_id": 486,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 528,
+    "knihy_id": 875,
+    "osoby_id": 195,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 540,
+    "knihy_id": 1379,
+    "osoby_id": 574,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 545,
+    "knihy_id": 1418,
+    "osoby_id": 333,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 561,
+    "knihy_id": 853,
+    "osoby_id": 67,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 569,
+    "knihy_id": 728,
+    "osoby_id": 518,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 572,
+    "knihy_id": 1234,
+    "osoby_id": 243,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 579,
+    "knihy_id": 64,
+    "osoby_id": 125,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 585,
+    "knihy_id": 312,
+    "osoby_id": 128,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 602,
+    "knihy_id": 613,
+    "osoby_id": 101,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 603,
+    "knihy_id": 1302,
+    "osoby_id": 280,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 607,
+    "knihy_id": 370,
+    "osoby_id": 186,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 614,
+    "knihy_id": 407,
+    "osoby_id": 27,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 620,
+    "knihy_id": 618,
+    "osoby_id": 558,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 624,
+    "knihy_id": 102,
+    "osoby_id": 564,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 627,
+    "knihy_id": 1128,
+    "osoby_id": 230,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 628,
+    "knihy_id": 574,
+    "osoby_id": 417,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 630,
+    "knihy_id": 476,
+    "osoby_id": 358,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 636,
+    "knihy_id": 1229,
+    "osoby_id": 458,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 637,
+    "knihy_id": 531,
+    "osoby_id": 314,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 667,
+    "knihy_id": 617,
+    "osoby_id": 556,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 674,
+    "knihy_id": 720,
+    "osoby_id": 224,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 675,
+    "knihy_id": 687,
+    "osoby_id": 306,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 679,
+    "knihy_id": 1533,
+    "osoby_id": 53,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 680,
+    "knihy_id": 84,
+    "osoby_id": 143,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 685,
+    "knihy_id": 374,
+    "osoby_id": 400,
+    "poznamka": Chybí některé strany,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 690,
+    "knihy_id": 807,
+    "osoby_id": 104,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 721,
+    "knihy_id": 1436,
+    "osoby_id": 529,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 743,
+    "knihy_id": 415,
+    "osoby_id": 438,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 749,
+    "knihy_id": 1005,
+    "osoby_id": 145,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 769,
+    "knihy_id": 682,
+    "osoby_id": 218,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 771,
+    "knihy_id": 484,
+    "osoby_id": 173,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 792,
+    "knihy_id": 145,
+    "osoby_id": 167,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 795,
+    "knihy_id": 204,
+    "osoby_id": 484,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 798,
+    "knihy_id": 669,
+    "osoby_id": 392,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 808,
+    "knihy_id": 645,
+    "osoby_id": 336,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 812,
+    "knihy_id": 676,
+    "osoby_id": 537,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 819,
+    "knihy_id": 33,
+    "osoby_id": 45,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 823,
+    "knihy_id": 235,
+    "osoby_id": 506,
+    "poznamka": Vzácná, s věnováním, není určena již určena k půjčování,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 824,
+    "knihy_id": 947,
+    "osoby_id": 308,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 826,
+    "knihy_id": 1153,
+    "osoby_id": 295,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 853,
+    "knihy_id": 1027,
+    "osoby_id": 257,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 855,
+    "knihy_id": 1292,
+    "osoby_id": 99,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 870,
+    "knihy_id": 312,
+    "osoby_id": 420,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 885,
+    "knihy_id": 619,
+    "osoby_id": 367,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 894,
+    "knihy_id": 1347,
+    "osoby_id": 308,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 902,
+    "knihy_id": 73,
+    "osoby_id": 24,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 912,
+    "knihy_id": 618,
+    "osoby_id": 69,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 916,
+    "knihy_id": 621,
+    "osoby_id": 17,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 917,
+    "knihy_id": 1177,
+    "osoby_id": 74,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 923,
+    "knihy_id": 1471,
+    "osoby_id": 334,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 926,
+    "knihy_id": 10,
+    "osoby_id": 454,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 949,
+    "knihy_id": 618,
+    "osoby_id": 269,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 953,
+    "knihy_id": 209,
+    "osoby_id": 318,
+    "poznamka": Chybí obsah,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 954,
+    "knihy_id": 444,
+    "osoby_id": 336,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 961,
+    "knihy_id": 1342,
+    "osoby_id": 61,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 994,
+    "knihy_id": 139,
+    "osoby_id": 424,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 999,
+    "knihy_id": 509,
+    "osoby_id": 342,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1002,
+    "knihy_id": 449,
+    "osoby_id": 156,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1003,
+    "knihy_id": 1357,
+    "osoby_id": 224,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1028,
+    "knihy_id": 380,
+    "osoby_id": 532,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1036,
+    "knihy_id": 1324,
+    "osoby_id": 179,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1050,
+    "knihy_id": 1296,
+    "osoby_id": 101,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1053,
+    "knihy_id": 1093,
+    "osoby_id": 59,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1072,
+    "knihy_id": 572,
+    "osoby_id": 403,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1083,
+    "knihy_id": 1169,
+    "osoby_id": 232,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1093,
+    "knihy_id": 471,
+    "osoby_id": 193,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1100,
+    "knihy_id": 646,
+    "osoby_id": 61,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1109,
+    "knihy_id": 596,
+    "osoby_id": 422,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1112,
+    "knihy_id": 1022,
+    "osoby_id": 61,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1130,
+    "knihy_id": 1324,
+    "osoby_id": 522,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1163,
+    "knihy_id": 984,
+    "osoby_id": 398,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1174,
+    "knihy_id": 775,
+    "osoby_id": 27,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1176,
+    "knihy_id": 1457,
+    "osoby_id": 527,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1177,
+    "knihy_id": 417,
+    "osoby_id": 270,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1178,
+    "knihy_id": 1054,
+    "osoby_id": 294,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1181,
+    "knihy_id": 910,
+    "osoby_id": 242,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1187,
+    "knihy_id": 857,
+    "osoby_id": 528,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1192,
+    "knihy_id": 553,
+    "osoby_id": 134,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1195,
+    "knihy_id": 1393,
+    "osoby_id": 24,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1201,
+    "knihy_id": 533,
+    "osoby_id": 163,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1212,
+    "knihy_id": 922,
+    "osoby_id": 162,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1224,
+    "knihy_id": 316,
+    "osoby_id": 356,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1236,
+    "knihy_id": 194,
+    "osoby_id": 300,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1237,
+    "knihy_id": 942,
+    "osoby_id": 508,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1239,
+    "knihy_id": 889,
+    "osoby_id": 456,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1262,
+    "knihy_id": 1051,
+    "osoby_id": 555,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1274,
+    "knihy_id": 1066,
+    "osoby_id": 302,
+    "poznamka": Chybí obsah,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1275,
+    "knihy_id": 1306,
+    "osoby_id": 186,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1281,
+    "knihy_id": 1493,
+    "osoby_id": 74,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1285,
+    "knihy_id": 729,
+    "osoby_id": 254,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1289,
+    "knihy_id": 61,
+    "osoby_id": 383,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1291,
+    "knihy_id": 1024,
+    "osoby_id": 278,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1313,
+    "knihy_id": 887,
+    "osoby_id": 470,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1315,
+    "knihy_id": 304,
+    "osoby_id": 548,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1321,
+    "knihy_id": 899,
+    "osoby_id": 66,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1325,
+    "knihy_id": 25,
+    "osoby_id": 339,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1326,
+    "knihy_id": 182,
+    "osoby_id": 172,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1332,
+    "knihy_id": 356,
+    "osoby_id": 372,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1333,
+    "knihy_id": 880,
+    "osoby_id": 270,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1335,
+    "knihy_id": 411,
+    "osoby_id": 258,
+    "poznamka": Chybí některé strany,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1336,
+    "knihy_id": 1421,
+    "osoby_id": 461,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1346,
+    "knihy_id": 1440,
+    "osoby_id": 529,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1359,
+    "knihy_id": 1511,
+    "osoby_id": 188,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1368,
+    "knihy_id": 63,
+    "osoby_id": 516,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1371,
+    "knihy_id": 268,
+    "osoby_id": 549,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1372,
+    "knihy_id": 491,
+    "osoby_id": 21,
+    "poznamka": Vzácná, s věnováním, není určena již určena k půjčování,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1375,
+    "knihy_id": 621,
+    "osoby_id": 134,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1377,
+    "knihy_id": 1416,
+    "osoby_id": 417,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1388,
+    "knihy_id": 28,
+    "osoby_id": 365,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1392,
+    "knihy_id": 1018,
+    "osoby_id": 41,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1411,
+    "knihy_id": 1477,
+    "osoby_id": 574,
+    "poznamka": K dispozici jen prezenčně,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1413,
+    "knihy_id": 1013,
+    "osoby_id": 248,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1425,
+    "knihy_id": 174,
+    "osoby_id": 167,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1430,
+    "knihy_id": 600,
+    "osoby_id": 435,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1437,
+    "knihy_id": 86,
+    "osoby_id": 28,
+    "poznamka": Chybí některé strany,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1438,
+    "knihy_id": 165,
+    "osoby_id": 271,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1443,
+    "knihy_id": 958,
+    "osoby_id": 361,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1461,
+    "knihy_id": 1440,
+    "osoby_id": 553,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1462,
+    "knihy_id": 743,
+    "osoby_id": 514,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1465,
+    "knihy_id": 585,
+    "osoby_id": 173,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1478,
+    "knihy_id": 1301,
+    "osoby_id": 535,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1485,
+    "knihy_id": 1329,
+    "osoby_id": 172,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1487,
+    "knihy_id": 1405,
+    "osoby_id": 101,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1514,
+    "knihy_id": 458,
+    "osoby_id": 296,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1526,
+    "knihy_id": 363,
+    "osoby_id": 221,
+    "poznamka": Poškozená vazba,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1538,
+    "knihy_id": 324,
+    "osoby_id": 527,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1547,
+    "knihy_id": 433,
+    "osoby_id": 564,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1561,
+    "knihy_id": 61,
+    "osoby_id": 566,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1570,
+    "knihy_id": 792,
+    "osoby_id": 17,
+    "poznamka": Poškozená vazba,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1572,
+    "knihy_id": 1453,
+    "osoby_id": 229,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1584,
+    "knihy_id": 677,
+    "osoby_id": 535,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1585,
+    "knihy_id": 246,
+    "osoby_id": 134,
+    "poznamka": Určené k vyřazení,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1586,
+    "knihy_id": 840,
+    "osoby_id": 484,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1587,
+    "knihy_id": 618,
+    "osoby_id": 322,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1605,
+    "knihy_id": 1212,
+    "osoby_id": 193,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1618,
+    "knihy_id": 991,
+    "osoby_id": 118,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1619,
+    "knihy_id": 748,
+    "osoby_id": 301,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1650,
+    "knihy_id": 1453,
+    "osoby_id": 361,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1659,
+    "knihy_id": 1341,
+    "osoby_id": 555,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1668,
+    "knihy_id": 378,
+    "osoby_id": 98,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1676,
+    "knihy_id": 371,
+    "osoby_id": 444,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1689,
+    "knihy_id": 1279,
+    "osoby_id": 296,
+    "poznamka": Poškozená vazba,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1704,
+    "knihy_id": 129,
+    "osoby_id": 302,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1721,
+    "knihy_id": 566,
+    "osoby_id": 336,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1735,
+    "knihy_id": 619,
+    "osoby_id": 118,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1744,
+    "knihy_id": 607,
+    "osoby_id": 472,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1747,
+    "knihy_id": 1345,
+    "osoby_id": 70,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1748,
+    "knihy_id": 86,
+    "osoby_id": 470,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1754,
+    "knihy_id": 684,
+    "osoby_id": 342,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1759,
+    "knihy_id": 1063,
+    "osoby_id": 76,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1760,
+    "knihy_id": 1144,
+    "osoby_id": 263,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1762,
+    "knihy_id": 482,
+    "osoby_id": 320,
+    "poznamka": Pomalovaná,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1765,
+    "knihy_id": 727,
+    "osoby_id": 566,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1766,
+    "knihy_id": 942,
+    "osoby_id": 153,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1769,
+    "knihy_id": 194,
+    "osoby_id": 218,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1777,
+    "knihy_id": 580,
+    "osoby_id": 271,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1782,
+    "knihy_id": 775,
+    "osoby_id": 358,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1793,
+    "knihy_id": 151,
+    "osoby_id": 429,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1795,
+    "knihy_id": 493,
+    "osoby_id": 314,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1804,
+    "knihy_id": 1133,
+    "osoby_id": 488,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1805,
+    "knihy_id": 1382,
+    "osoby_id": 484,
+    "poznamka": Některé stánky jsou potrhané,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1813,
+    "knihy_id": 165,
+    "osoby_id": 348,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1826,
+    "knihy_id": 1023,
+    "osoby_id": 122,
+    "poznamka": Zvýrazněný text,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1831,
+    "knihy_id": 820,
+    "osoby_id": 299,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1844,
+    "knihy_id": 458,
+    "osoby_id": 41,
+    "poznamka": Některé stánky jsou potrhané,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1845,
+    "knihy_id": 1148,
+    "osoby_id": 559,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1849,
+    "knihy_id": 875,
+    "osoby_id": 537,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1852,
+    "knihy_id": 390,
+    "osoby_id": 204,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1854,
+    "knihy_id": 603,
+    "osoby_id": 283,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1855,
+    "knihy_id": 988,
+    "osoby_id": 272,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1871,
+    "knihy_id": 338,
+    "osoby_id": 333,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1873,
+    "knihy_id": 917,
+    "osoby_id": 553,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1876,
+    "knihy_id": 1371,
+    "osoby_id": 254,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1880,
+    "knihy_id": 560,
+    "osoby_id": 95,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1898,
+    "knihy_id": 534,
+    "osoby_id": 260,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1904,
+    "knihy_id": 460,
+    "osoby_id": 322,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1905,
+    "knihy_id": 837,
+    "osoby_id": 438,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1941,
+    "knihy_id": 659,
+    "osoby_id": 212,
+    "poznamka": Chybí některé strany,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1946,
+    "knihy_id": 1368,
+    "osoby_id": 463,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1953,
+    "knihy_id": 585,
+    "osoby_id": 531,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1967,
+    "knihy_id": 1100,
+    "osoby_id": 472,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1997,
+    "knihy_id": 1165,
+    "osoby_id": 148,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 1999,
+    "knihy_id": 93,
+    "osoby_id": 222,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2006,
+    "knihy_id": 720,
+    "osoby_id": 417,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2007,
+    "knihy_id": 1001,
+    "osoby_id": 229,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2011,
+    "knihy_id": 643,
+    "osoby_id": 516,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2044,
+    "knihy_id": 1098,
+    "osoby_id": 490,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2051,
+    "knihy_id": 909,
+    "osoby_id": 26,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2072,
+    "knihy_id": 870,
+    "osoby_id": 472,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2074,
+    "knihy_id": 1373,
+    "osoby_id": 544,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2075,
+    "knihy_id": 1116,
+    "osoby_id": 430,
+    "poznamka": Zvýrazněný text,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2081,
+    "knihy_id": 575,
+    "osoby_id": 530,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2084,
+    "knihy_id": 719,
+    "osoby_id": 386,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2101,
+    "knihy_id": 312,
+    "osoby_id": 118,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2103,
+    "knihy_id": 1051,
+    "osoby_id": 143,
+    "poznamka": Chybí obsah,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2106,
+    "knihy_id": 1516,
+    "osoby_id": 272,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2107,
+    "knihy_id": 799,
+    "osoby_id": 434,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2129,
+    "knihy_id": 953,
+    "osoby_id": 143,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2135,
+    "knihy_id": 1419,
+    "osoby_id": 456,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2169,
+    "knihy_id": 1128,
+    "osoby_id": 394,
+    "poznamka": Chybí obsah,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2189,
+    "knihy_id": 509,
+    "osoby_id": 296,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2193,
+    "knihy_id": 1053,
+    "osoby_id": 229,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2202,
+    "knihy_id": 621,
+    "osoby_id": 271,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2210,
+    "knihy_id": 1252,
+    "osoby_id": 246,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2213,
+    "knihy_id": 1276,
+    "osoby_id": 339,
+    "poznamka": Několik listů chybí,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2216,
+    "knihy_id": 1285,
+    "osoby_id": 300,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2221,
+    "knihy_id": 605,
+    "osoby_id": 564,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2223,
+    "knihy_id": 569,
+    "osoby_id": 527,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2245,
+    "knihy_id": 746,
+    "osoby_id": 544,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2261,
+    "knihy_id": 631,
+    "osoby_id": 61,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2262,
+    "knihy_id": 1305,
+    "osoby_id": 354,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2263,
+    "knihy_id": 139,
+    "osoby_id": 28,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2273,
+    "knihy_id": 594,
+    "osoby_id": 527,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2283,
+    "knihy_id": 682,
+    "osoby_id": 203,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2294,
+    "knihy_id": 52,
+    "osoby_id": 356,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2302,
+    "knihy_id": 1486,
+    "osoby_id": 300,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2304,
+    "knihy_id": 743,
+    "osoby_id": 210,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2306,
+    "knihy_id": 1381,
+    "osoby_id": 230,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2309,
+    "knihy_id": 1237,
+    "osoby_id": 430,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2315,
+    "knihy_id": 1436,
+    "osoby_id": 333,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2320,
+    "knihy_id": 17,
+    "osoby_id": 527,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2332,
+    "knihy_id": 390,
+    "osoby_id": 70,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2334,
+    "knihy_id": 1075,
+    "osoby_id": 575,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2344,
+    "knihy_id": 81,
+    "osoby_id": 522,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2391,
+    "knihy_id": 1024,
+    "osoby_id": 486,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2392,
+    "knihy_id": 873,
+    "osoby_id": 260,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2394,
+    "knihy_id": 702,
+    "osoby_id": 489,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2407,
+    "knihy_id": 42,
+    "osoby_id": 517,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2419,
+    "knihy_id": 552,
+    "osoby_id": 516,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2420,
+    "knihy_id": 733,
+    "osoby_id": 28,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2437,
+    "knihy_id": 386,
+    "osoby_id": 168,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2438,
+    "knihy_id": 17,
+    "osoby_id": 229,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2441,
+    "knihy_id": 730,
+    "osoby_id": 76,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2443,
+    "knihy_id": 376,
+    "osoby_id": 464,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2455,
+    "knihy_id": 897,
+    "osoby_id": 372,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2457,
+    "knihy_id": 520,
+    "osoby_id": 129,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2462,
+    "knihy_id": 185,
+    "osoby_id": 21,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2483,
+    "knihy_id": 1220,
+    "osoby_id": 365,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2495,
+    "knihy_id": 983,
+    "osoby_id": 420,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2497,
+    "knihy_id": 1342,
+    "osoby_id": 472,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2501,
+    "knihy_id": 1222,
+    "osoby_id": 496,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2535,
+    "knihy_id": 264,
+    "osoby_id": 188,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2555,
+    "knihy_id": 374,
+    "osoby_id": 186,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2567,
+    "knihy_id": 1265,
+    "osoby_id": 257,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2569,
+    "knihy_id": 1430,
+    "osoby_id": 445,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2596,
+    "knihy_id": 473,
+    "osoby_id": 341,
+    "poznamka": Určené k vyřazení,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2602,
+    "knihy_id": 667,
+    "osoby_id": 482,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2607,
+    "knihy_id": 390,
+    "osoby_id": 306,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2618,
+    "knihy_id": 1257,
+    "osoby_id": 21,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2625,
+    "knihy_id": 931,
+    "osoby_id": 167,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2626,
+    "knihy_id": 102,
+    "osoby_id": 34,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2627,
+    "knihy_id": 1069,
+    "osoby_id": 105,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2629,
+    "knihy_id": 171,
+    "osoby_id": 246,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2642,
+    "knihy_id": 451,
+    "osoby_id": 165,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2643,
+    "knihy_id": 148,
+    "osoby_id": 30,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2645,
+    "knihy_id": 947,
+    "osoby_id": 168,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2646,
+    "knihy_id": 1281,
+    "osoby_id": 248,
+    "poznamka": Poškozená vazba,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2648,
+    "knihy_id": 1122,
+    "osoby_id": 527,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2655,
+    "knihy_id": 94,
+    "osoby_id": 21,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2665,
+    "knihy_id": 1065,
+    "osoby_id": 489,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2671,
+    "knihy_id": 133,
+    "osoby_id": 74,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2682,
+    "knihy_id": 1516,
+    "osoby_id": 367,
+    "poznamka": Poškozená vazba,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2684,
+    "knihy_id": 923,
+    "osoby_id": 339,
+    "poznamka": Poškozená vazba,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2701,
+    "knihy_id": 840,
+    "osoby_id": 163,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2709,
+    "knihy_id": 115,
+    "osoby_id": 293,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2718,
+    "knihy_id": 449,
+    "osoby_id": 527,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2720,
+    "knihy_id": 1219,
+    "osoby_id": 417,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2723,
+    "knihy_id": 1511,
+    "osoby_id": 9,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2732,
+    "knihy_id": 285,
+    "osoby_id": 14,
+    "poznamka": Chybí některé strany,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2736,
+    "knihy_id": 901,
+    "osoby_id": 141,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2738,
+    "knihy_id": 371,
+    "osoby_id": 288,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2739,
+    "knihy_id": 240,
+    "osoby_id": 457,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2749,
+    "knihy_id": 634,
+    "osoby_id": 134,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2750,
+    "knihy_id": 1001,
+    "osoby_id": 114,
+    "poznamka": Zamluvená,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2771,
+    "knihy_id": 1533,
+    "osoby_id": 133,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2776,
+    "knihy_id": 903,
+    "osoby_id": 403,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2799,
+    "knihy_id": 999,
+    "osoby_id": 438,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2815,
+    "knihy_id": 807,
+    "osoby_id": 560,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2837,
+    "knihy_id": 754,
+    "osoby_id": 204,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2854,
+    "knihy_id": 119,
+    "osoby_id": 443,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2865,
+    "knihy_id": 633,
+    "osoby_id": 269,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2872,
+    "knihy_id": 1321,
+    "osoby_id": 299,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2874,
+    "knihy_id": 793,
+    "osoby_id": 556,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2878,
+    "knihy_id": 349,
+    "osoby_id": 382,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2879,
+    "knihy_id": 1355,
+    "osoby_id": 278,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2883,
+    "knihy_id": 488,
+    "osoby_id": 118,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2894,
+    "knihy_id": 393,
+    "osoby_id": 95,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2916,
+    "knihy_id": 1462,
+    "osoby_id": 383,
+    "poznamka": K dispozici jen prezenčně,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2927,
+    "knihy_id": 122,
+    "osoby_id": 467,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2936,
+    "knihy_id": 1268,
+    "osoby_id": 1,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2954,
+    "knihy_id": 476,
+    "osoby_id": 263,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2964,
+    "knihy_id": 386,
+    "osoby_id": 421,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2970,
+    "knihy_id": 1434,
+    "osoby_id": 398,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2980,
+    "knihy_id": 1257,
+    "osoby_id": 489,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2987,
+    "knihy_id": 772,
+    "osoby_id": 186,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 2998,
+    "knihy_id": 872,
+    "osoby_id": 301,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3017,
+    "knihy_id": 388,
+    "osoby_id": 37,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3022,
+    "knihy_id": 999,
+    "osoby_id": 61,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3033,
+    "knihy_id": 524,
+    "osoby_id": 372,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3040,
+    "knihy_id": 1516,
+    "osoby_id": 59,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3041,
+    "knihy_id": 994,
+    "osoby_id": 377,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3049,
+    "knihy_id": 1281,
+    "osoby_id": 270,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3065,
+    "knihy_id": 818,
+    "osoby_id": 17,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3072,
+    "knihy_id": 93,
+    "osoby_id": 189,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3078,
+    "knihy_id": 714,
+    "osoby_id": 145,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3099,
+    "knihy_id": 1477,
+    "osoby_id": 53,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3121,
+    "knihy_id": 1434,
+    "osoby_id": 432,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3129,
+    "knihy_id": 831,
+    "osoby_id": 153,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3133,
+    "knihy_id": 1476,
+    "osoby_id": 34,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3145,
+    "knihy_id": 1411,
+    "osoby_id": 50,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3164,
+    "knihy_id": 1112,
+    "osoby_id": 388,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3167,
+    "knihy_id": 673,
+    "osoby_id": 544,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3173,
+    "knihy_id": 1437,
+    "osoby_id": 112,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3177,
+    "knihy_id": 1112,
+    "osoby_id": 278,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3182,
+    "knihy_id": 1013,
+    "osoby_id": 271,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3189,
+    "knihy_id": 293,
+    "osoby_id": 224,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3211,
+    "knihy_id": 1532,
+    "osoby_id": 348,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3212,
+    "knihy_id": 966,
+    "osoby_id": 278,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3225,
+    "knihy_id": 1511,
+    "osoby_id": 283,
+    "poznamka": Určené k vyřazení,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3229,
+    "knihy_id": 552,
+    "osoby_id": 280,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3230,
+    "knihy_id": 1471,
+    "osoby_id": 17,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3238,
+    "knihy_id": 26,
+    "osoby_id": 357,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3240,
+    "knihy_id": 735,
+    "osoby_id": 548,
+    "poznamka": Chybí obsah,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3249,
+    "knihy_id": 946,
+    "osoby_id": 567,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3251,
+    "knihy_id": 372,
+    "osoby_id": 26,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3270,
+    "knihy_id": 1357,
+    "osoby_id": 461,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3282,
+    "knihy_id": 1496,
+    "osoby_id": 134,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3291,
+    "knihy_id": 246,
+    "osoby_id": 444,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3293,
+    "knihy_id": 552,
+    "osoby_id": 300,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3304,
+    "knihy_id": 768,
+    "osoby_id": 100,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3310,
+    "knihy_id": 924,
+    "osoby_id": 522,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3318,
+    "knihy_id": 1268,
+    "osoby_id": 322,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3330,
+    "knihy_id": 1040,
+    "osoby_id": 4,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3332,
+    "knihy_id": 1092,
+    "osoby_id": 433,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3337,
+    "knihy_id": 1040,
+    "osoby_id": 141,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3347,
+    "knihy_id": 1026,
+    "osoby_id": 23,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3377,
+    "knihy_id": 1258,
+    "osoby_id": 501,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3381,
+    "knihy_id": 45,
+    "osoby_id": 422,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3382,
+    "knihy_id": 768,
+    "osoby_id": 173,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3385,
+    "knihy_id": 947,
+    "osoby_id": 104,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3397,
+    "knihy_id": 1457,
+    "osoby_id": 195,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3400,
+    "knihy_id": 858,
+    "osoby_id": 152,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3402,
+    "knihy_id": 1407,
+    "osoby_id": 532,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3410,
+    "knihy_id": 138,
+    "osoby_id": 77,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3418,
+    "knihy_id": 623,
+    "osoby_id": 455,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3420,
+    "knihy_id": 694,
+    "osoby_id": 278,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3424,
+    "knihy_id": 974,
+    "osoby_id": 338,
+    "poznamka": Vzácná, s věnováním, není určena již určena k půjčování,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3430,
+    "knihy_id": 993,
+    "osoby_id": 413,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3433,
+    "knihy_id": 122,
+    "osoby_id": 422,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3434,
+    "knihy_id": 841,
+    "osoby_id": 66,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3438,
+    "knihy_id": 349,
+    "osoby_id": 358,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3441,
+    "knihy_id": 872,
+    "osoby_id": 322,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3446,
+    "knihy_id": 139,
+    "osoby_id": 394,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3451,
+    "knihy_id": 45,
+    "osoby_id": 232,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3454,
+    "knihy_id": 1280,
+    "osoby_id": 564,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3456,
+    "knihy_id": 397,
+    "osoby_id": 233,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3457,
+    "knihy_id": 379,
+    "osoby_id": 413,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3475,
+    "knihy_id": 586,
+    "osoby_id": 553,
+    "poznamka": Chybí některé strany,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3483,
+    "knihy_id": 760,
+    "osoby_id": 131,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3491,
+    "knihy_id": 62,
+    "osoby_id": 50,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3498,
+    "knihy_id": 42,
+    "osoby_id": 241,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3539,
+    "knihy_id": 990,
+    "osoby_id": 265,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3553,
+    "knihy_id": 365,
+    "osoby_id": 150,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3556,
+    "knihy_id": 464,
+    "osoby_id": 270,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3566,
+    "knihy_id": 889,
+    "osoby_id": 444,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3591,
+    "knihy_id": 606,
+    "osoby_id": 134,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3595,
+    "knihy_id": 1379,
+    "osoby_id": 248,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3599,
+    "knihy_id": 1428,
+    "osoby_id": 230,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3603,
+    "knihy_id": 1486,
+    "osoby_id": 231,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3608,
+    "knihy_id": 984,
+    "osoby_id": 193,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3610,
+    "knihy_id": 1250,
+    "osoby_id": 537,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3623,
+    "knihy_id": 1277,
+    "osoby_id": 449,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3624,
+    "knihy_id": 658,
+    "osoby_id": 63,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3628,
+    "knihy_id": 619,
+    "osoby_id": 470,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3642,
+    "knihy_id": 404,
+    "osoby_id": 101,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3643,
+    "knihy_id": 290,
+    "osoby_id": 298,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3645,
+    "knihy_id": 64,
+    "osoby_id": 288,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3648,
+    "knihy_id": 876,
+    "osoby_id": 143,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3651,
+    "knihy_id": 616,
+    "osoby_id": 212,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3652,
+    "knihy_id": 655,
+    "osoby_id": 567,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3660,
+    "knihy_id": 807,
+    "osoby_id": 41,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3662,
+    "knihy_id": 1285,
+    "osoby_id": 122,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3663,
+    "knihy_id": 421,
+    "osoby_id": 472,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3665,
+    "knihy_id": 488,
+    "osoby_id": 241,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3666,
+    "knihy_id": 304,
+    "osoby_id": 125,
+    "poznamka": Určené k vyřazení,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3667,
+    "knihy_id": 151,
+    "osoby_id": 41,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3672,
+    "knihy_id": 720,
+    "osoby_id": 385,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3679,
+    "knihy_id": 226,
+    "osoby_id": 532,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3687,
+    "knihy_id": 1413,
+    "osoby_id": 85,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3698,
+    "knihy_id": 964,
+    "osoby_id": 37,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3704,
+    "knihy_id": 626,
+    "osoby_id": 246,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3717,
+    "knihy_id": 883,
+    "osoby_id": 484,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3721,
+    "knihy_id": 1135,
+    "osoby_id": 429,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3724,
+    "knihy_id": 268,
+    "osoby_id": 66,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3726,
+    "knihy_id": 1418,
+    "osoby_id": 353,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3736,
+    "knihy_id": 989,
+    "osoby_id": 242,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3753,
+    "knihy_id": 22,
+    "osoby_id": 248,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3757,
+    "knihy_id": 39,
+    "osoby_id": 488,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3762,
+    "knihy_id": 327,
+    "osoby_id": 527,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3778,
+    "knihy_id": 108,
+    "osoby_id": 438,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3779,
+    "knihy_id": 644,
+    "osoby_id": 148,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3788,
+    "knihy_id": 854,
+    "osoby_id": 199,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3796,
+    "knihy_id": 1344,
+    "osoby_id": 229,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3804,
+    "knihy_id": 483,
+    "osoby_id": 74,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3811,
+    "knihy_id": 119,
+    "osoby_id": 361,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3833,
+    "knihy_id": 905,
+    "osoby_id": 131,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3845,
+    "knihy_id": 74,
+    "osoby_id": 529,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3855,
+    "knihy_id": 980,
+    "osoby_id": 21,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3858,
+    "knihy_id": 878,
+    "osoby_id": 242,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3870,
+    "knihy_id": 1530,
+    "osoby_id": 150,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3881,
+    "knihy_id": 697,
+    "osoby_id": 418,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3884,
+    "knihy_id": 702,
+    "osoby_id": 285,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3891,
+    "knihy_id": 1158,
+    "osoby_id": 571,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3906,
+    "knihy_id": 880,
+    "osoby_id": 560,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3911,
+    "knihy_id": 476,
+    "osoby_id": 381,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3921,
+    "knihy_id": 280,
+    "osoby_id": 464,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3931,
+    "knihy_id": 45,
+    "osoby_id": 134,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3935,
+    "knihy_id": 753,
+    "osoby_id": 269,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3940,
+    "knihy_id": 143,
+    "osoby_id": 522,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3941,
+    "knihy_id": 52,
+    "osoby_id": 447,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3945,
+    "knihy_id": 674,
+    "osoby_id": 21,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3960,
+    "knihy_id": 509,
+    "osoby_id": 428,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3962,
+    "knihy_id": 1419,
+    "osoby_id": 248,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3965,
+    "knihy_id": 1397,
+    "osoby_id": 246,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3967,
+    "knihy_id": 1221,
+    "osoby_id": 428,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 3975,
+    "knihy_id": 433,
+    "osoby_id": 118,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4002,
+    "knihy_id": 435,
+    "osoby_id": 67,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4003,
+    "knihy_id": 400,
+    "osoby_id": 353,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4012,
+    "knihy_id": 548,
+    "osoby_id": 333,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4013,
+    "knihy_id": 777,
+    "osoby_id": 377,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4024,
+    "knihy_id": 941,
+    "osoby_id": 61,
+    "poznamka": Zamluvená,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4034,
+    "knihy_id": 1086,
+    "osoby_id": 498,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4047,
+    "knihy_id": 1295,
+    "osoby_id": 254,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4049,
+    "knihy_id": 206,
+    "osoby_id": 114,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4060,
+    "knihy_id": 394,
+    "osoby_id": 59,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4063,
+    "knihy_id": 1293,
+    "osoby_id": 525,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4072,
+    "knihy_id": 262,
+    "osoby_id": 101,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4077,
+    "knihy_id": 756,
+    "osoby_id": 487,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4078,
+    "knihy_id": 65,
+    "osoby_id": 429,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4079,
+    "knihy_id": 667,
+    "osoby_id": 59,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4081,
+    "knihy_id": 319,
+    "osoby_id": 178,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4093,
+    "knihy_id": 1260,
+    "osoby_id": 242,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4100,
+    "knihy_id": 450,
+    "osoby_id": 486,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4116,
+    "knihy_id": 665,
+    "osoby_id": 472,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4124,
+    "knihy_id": 677,
+    "osoby_id": 336,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4135,
+    "knihy_id": 572,
+    "osoby_id": 204,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4148,
+    "knihy_id": 1404,
+    "osoby_id": 533,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4151,
+    "knihy_id": 319,
+    "osoby_id": 308,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4167,
+    "knihy_id": 1420,
+    "osoby_id": 114,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4186,
+    "knihy_id": 371,
+    "osoby_id": 385,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4194,
+    "knihy_id": 120,
+    "osoby_id": 293,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4199,
+    "knihy_id": 310,
+    "osoby_id": 469,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4211,
+    "knihy_id": 1436,
+    "osoby_id": 472,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4212,
+    "knihy_id": 1481,
+    "osoby_id": 306,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4221,
+    "knihy_id": 136,
+    "osoby_id": 463,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4227,
+    "knihy_id": 1494,
+    "osoby_id": 293,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4233,
+    "knihy_id": 130,
+    "osoby_id": 432,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4240,
+    "knihy_id": 1277,
+    "osoby_id": 527,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4241,
+    "knihy_id": 733,
+    "osoby_id": 74,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4253,
+    "knihy_id": 1325,
+    "osoby_id": 280,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4257,
+    "knihy_id": 1514,
+    "osoby_id": 360,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4279,
+    "knihy_id": 773,
+    "osoby_id": 76,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4281,
+    "knihy_id": 21,
+    "osoby_id": 38,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4294,
+    "knihy_id": 1251,
+    "osoby_id": 274,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4317,
+    "knihy_id": 917,
+    "osoby_id": 363,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4324,
+    "knihy_id": 317,
+    "osoby_id": 203,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4340,
+    "knihy_id": 1358,
+    "osoby_id": 381,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4352,
+    "knihy_id": 202,
+    "osoby_id": 314,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4354,
+    "knihy_id": 18,
+    "osoby_id": 28,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4359,
+    "knihy_id": 141,
+    "osoby_id": 574,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4361,
+    "knihy_id": 229,
+    "osoby_id": 101,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4365,
+    "knihy_id": 215,
+    "osoby_id": 45,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4368,
+    "knihy_id": 586,
+    "osoby_id": 336,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4380,
+    "knihy_id": 746,
+    "osoby_id": 171,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4385,
+    "knihy_id": 1069,
+    "osoby_id": 61,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4401,
+    "knihy_id": 439,
+    "osoby_id": 265,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4406,
+    "knihy_id": 924,
+    "osoby_id": 27,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4415,
+    "knihy_id": 468,
+    "osoby_id": 270,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4429,
+    "knihy_id": 1075,
+    "osoby_id": 105,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4437,
+    "knihy_id": 141,
+    "osoby_id": 468,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4438,
+    "knihy_id": 913,
+    "osoby_id": 464,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4460,
+    "knihy_id": 677,
+    "osoby_id": 56,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4468,
+    "knihy_id": 1242,
+    "osoby_id": 26,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4481,
+    "knihy_id": 764,
+    "osoby_id": 358,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4487,
+    "knihy_id": 100,
+    "osoby_id": 487,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4499,
+    "knihy_id": 1112,
+    "osoby_id": 413,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4501,
+    "knihy_id": 1120,
+    "osoby_id": 271,
+    "poznamka": Chybí obsah,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4502,
+    "knihy_id": 1329,
+    "osoby_id": 114,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4532,
+    "knihy_id": 1481,
+    "osoby_id": 129,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4536,
+    "knihy_id": 1392,
+    "osoby_id": 196,
+    "poznamka": Chybí některé strany,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4537,
+    "knihy_id": 767,
+    "osoby_id": 260,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4547,
+    "knihy_id": 615,
+    "osoby_id": 321,
+    "poznamka": Fotokopie originálu,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4551,
+    "knihy_id": 1219,
+    "osoby_id": 20,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4553,
+    "knihy_id": 23,
+    "osoby_id": 158,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4555,
+    "knihy_id": 213,
+    "osoby_id": 348,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4556,
+    "knihy_id": 1202,
+    "osoby_id": 452,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4568,
+    "knihy_id": 1223,
+    "osoby_id": 171,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4569,
+    "knihy_id": 1023,
+    "osoby_id": 248,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4573,
+    "knihy_id": 1192,
+    "osoby_id": 296,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4576,
+    "knihy_id": 194,
+    "osoby_id": 454,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4581,
+    "knihy_id": 182,
+    "osoby_id": 283,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4582,
+    "knihy_id": 1453,
+    "osoby_id": 424,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4594,
+    "knihy_id": 993,
+    "osoby_id": 358,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4600,
+    "knihy_id": 1462,
+    "osoby_id": 212,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4605,
+    "knihy_id": 904,
+    "osoby_id": 318,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4612,
+    "knihy_id": 783,
+    "osoby_id": 456,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4618,
+    "knihy_id": 660,
+    "osoby_id": 278,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4628,
+    "knihy_id": 1384,
+    "osoby_id": 104,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4640,
+    "knihy_id": 617,
+    "osoby_id": 318,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4644,
+    "knihy_id": 1397,
+    "osoby_id": 417,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4661,
+    "knihy_id": 602,
+    "osoby_id": 231,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4662,
+    "knihy_id": 458,
+    "osoby_id": 104,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4667,
+    "knihy_id": 991,
+    "osoby_id": 90,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4675,
+    "knihy_id": 248,
+    "osoby_id": 429,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4678,
+    "knihy_id": 1444,
+    "osoby_id": 4,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4684,
+    "knihy_id": 880,
+    "osoby_id": 358,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4694,
+    "knihy_id": 920,
+    "osoby_id": 271,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4695,
+    "knihy_id": 1324,
+    "osoby_id": 432,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4713,
+    "knihy_id": 1252,
+    "osoby_id": 383,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4717,
+    "knihy_id": 575,
+    "osoby_id": 210,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4723,
+    "knihy_id": 397,
+    "osoby_id": 171,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4725,
+    "knihy_id": 878,
+    "osoby_id": 420,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4726,
+    "knihy_id": 206,
+    "osoby_id": 394,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4733,
+    "knihy_id": 507,
+    "osoby_id": 549,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4739,
+    "knihy_id": 1041,
+    "osoby_id": 336,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4764,
+    "knihy_id": 493,
+    "osoby_id": 472,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4768,
+    "knihy_id": 1360,
+    "osoby_id": 196,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4782,
+    "knihy_id": 673,
+    "osoby_id": 464,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4783,
+    "knihy_id": 366,
+    "osoby_id": 533,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4785,
+    "knihy_id": 84,
+    "osoby_id": 168,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4787,
+    "knihy_id": 379,
+    "osoby_id": 165,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4794,
+    "knihy_id": 1171,
+    "osoby_id": 178,
+    "poznamka": Vzácná, s věnováním, není určena již určena k půjčování,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4795,
+    "knihy_id": 967,
+    "osoby_id": 45,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4797,
+    "knihy_id": 368,
+    "osoby_id": 21,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4801,
+    "knihy_id": 433,
+    "osoby_id": 249,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4811,
+    "knihy_id": 1005,
+    "osoby_id": 456,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4818,
+    "knihy_id": 435,
+    "osoby_id": 575,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4821,
+    "knihy_id": 976,
+    "osoby_id": 514,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4828,
+    "knihy_id": 404,
+    "osoby_id": 218,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4836,
+    "knihy_id": 1417,
+    "osoby_id": 532,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4839,
+    "knihy_id": 969,
+    "osoby_id": 535,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4867,
+    "knihy_id": 886,
+    "osoby_id": 1,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4871,
+    "knihy_id": 74,
+    "osoby_id": 273,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4877,
+    "knihy_id": 1417,
+    "osoby_id": 73,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4879,
+    "knihy_id": 1012,
+    "osoby_id": 193,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4882,
+    "knihy_id": 394,
+    "osoby_id": 482,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4891,
+    "knihy_id": 1342,
+    "osoby_id": 120,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4895,
+    "knihy_id": 640,
+    "osoby_id": 467,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4897,
+    "knihy_id": 561,
+    "osoby_id": 532,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4914,
+    "knihy_id": 1075,
+    "osoby_id": 153,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4919,
+    "knihy_id": 1198,
+    "osoby_id": 61,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4939,
+    "knihy_id": 117,
+    "osoby_id": 484,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4948,
+    "knihy_id": 836,
+    "osoby_id": 53,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4950,
+    "knihy_id": 729,
+    "osoby_id": 150,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4954,
+    "knihy_id": 1017,
+    "osoby_id": 306,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4955,
+    "knihy_id": 931,
+    "osoby_id": 189,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4957,
+    "knihy_id": 976,
+    "osoby_id": 337,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4962,
+    "knihy_id": 1002,
+    "osoby_id": 158,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4967,
+    "knihy_id": 724,
+    "osoby_id": 23,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4971,
+    "knihy_id": 993,
+    "osoby_id": 17,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4973,
+    "knihy_id": 1052,
+    "osoby_id": 171,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4979,
+    "knihy_id": 1397,
+    "osoby_id": 472,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4982,
+    "knihy_id": 1017,
+    "osoby_id": 271,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4987,
+    "knihy_id": 1175,
+    "osoby_id": 533,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4990,
+    "knihy_id": 788,
+    "osoby_id": 61,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4992,
+    "knihy_id": 907,
+    "osoby_id": 260,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 4994,
+    "knihy_id": 1265,
+    "osoby_id": 61,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5017,
+    "knihy_id": 229,
+    "osoby_id": 98,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5036,
+    "knihy_id": 138,
+    "osoby_id": 45,
+    "poznamka": Poškozená vazba,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5040,
+    "knihy_id": 733,
+    "osoby_id": 214,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5045,
+    "knihy_id": 155,
+    "osoby_id": 246,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5046,
+    "knihy_id": 891,
+    "osoby_id": 458,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5053,
+    "knihy_id": 1121,
+    "osoby_id": 40,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5054,
+    "knihy_id": 633,
+    "osoby_id": 420,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5063,
+    "knihy_id": 1397,
+    "osoby_id": 114,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5064,
+    "knihy_id": 1443,
+    "osoby_id": 141,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5071,
+    "knihy_id": 1361,
+    "osoby_id": 441,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5074,
+    "knihy_id": 1013,
+    "osoby_id": 484,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5078,
+    "knihy_id": 1468,
+    "osoby_id": 356,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5084,
+    "knihy_id": 1361,
+    "osoby_id": 428,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5087,
+    "knihy_id": 924,
+    "osoby_id": 67,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5097,
+    "knihy_id": 1309,
+    "osoby_id": 457,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5098,
+    "knihy_id": 947,
+    "osoby_id": 225,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5101,
+    "knihy_id": 213,
+    "osoby_id": 153,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5103,
+    "knihy_id": 1231,
+    "osoby_id": 60,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5111,
+    "knihy_id": 1324,
+    "osoby_id": 275,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5130,
+    "knihy_id": 779,
+    "osoby_id": 171,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5143,
+    "knihy_id": 679,
+    "osoby_id": 91,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5160,
+    "knihy_id": 1499,
+    "osoby_id": 295,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5165,
+    "knihy_id": 491,
+    "osoby_id": 122,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5175,
+    "knihy_id": 905,
+    "osoby_id": 346,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5188,
+    "knihy_id": 884,
+    "osoby_id": 232,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5190,
+    "knihy_id": 39,
+    "osoby_id": 342,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5199,
+    "knihy_id": 380,
+    "osoby_id": 280,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5220,
+    "knihy_id": 355,
+    "osoby_id": 527,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5224,
+    "knihy_id": 677,
+    "osoby_id": 249,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5225,
+    "knihy_id": 710,
+    "osoby_id": 173,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5227,
+    "knihy_id": 361,
+    "osoby_id": 342,
+    "poznamka": Poškozená vazba,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5231,
+    "knihy_id": 1026,
+    "osoby_id": 444,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5240,
+    "knihy_id": 392,
+    "osoby_id": 275,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5242,
+    "knihy_id": 1530,
+    "osoby_id": 503,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5251,
+    "knihy_id": 125,
+    "osoby_id": 376,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5293,
+    "knihy_id": 753,
+    "osoby_id": 492,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5308,
+    "knihy_id": 171,
+    "osoby_id": 556,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5312,
+    "knihy_id": 1238,
+    "osoby_id": 396,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5316,
+    "knihy_id": 442,
+    "osoby_id": 214,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5326,
+    "knihy_id": 1481,
+    "osoby_id": 35,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5338,
+    "knihy_id": 777,
+    "osoby_id": 452,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5339,
+    "knihy_id": 1347,
+    "osoby_id": 247,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5344,
+    "knihy_id": 484,
+    "osoby_id": 118,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5351,
+    "knihy_id": 1013,
+    "osoby_id": 237,
+    "poznamka": Vzácná, s věnováním, není určena již určena k půjčování,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5389,
+    "knihy_id": 75,
+    "osoby_id": 539,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5402,
+    "knihy_id": 1153,
+    "osoby_id": 435,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5403,
+    "knihy_id": 1302,
+    "osoby_id": 463,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5405,
+    "knihy_id": 1137,
+    "osoby_id": 503,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5419,
+    "knihy_id": 396,
+    "osoby_id": 508,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5428,
+    "knihy_id": 1501,
+    "osoby_id": 24,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5431,
+    "knihy_id": 384,
+    "osoby_id": 98,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5443,
+    "knihy_id": 61,
+    "osoby_id": 528,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5451,
+    "knihy_id": 130,
+    "osoby_id": 9,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5452,
+    "knihy_id": 603,
+    "osoby_id": 472,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5489,
+    "knihy_id": 618,
+    "osoby_id": 152,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5520,
+    "knihy_id": 976,
+    "osoby_id": 288,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5525,
+    "knihy_id": 1457,
+    "osoby_id": 298,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5539,
+    "knihy_id": 26,
+    "osoby_id": 560,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5540,
+    "knihy_id": 570,
+    "osoby_id": 260,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5552,
+    "knihy_id": 310,
+    "osoby_id": 74,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5556,
+    "knihy_id": 22,
+    "osoby_id": 143,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5560,
+    "knihy_id": 920,
+    "osoby_id": 150,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5567,
+    "knihy_id": 604,
+    "osoby_id": 302,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5577,
+    "knihy_id": 659,
+    "osoby_id": 381,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5597,
+    "knihy_id": 1414,
+    "osoby_id": 91,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5607,
+    "knihy_id": 602,
+    "osoby_id": 278,
+    "poznamka": Poškozená vazba,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5609,
+    "knihy_id": 517,
+    "osoby_id": 475,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5621,
+    "knihy_id": 1296,
+    "osoby_id": 134,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5627,
+    "knihy_id": 1452,
+    "osoby_id": 529,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5633,
+    "knihy_id": 1141,
+    "osoby_id": 296,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5640,
+    "knihy_id": 264,
+    "osoby_id": 413,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5651,
+    "knihy_id": 554,
+    "osoby_id": 360,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5664,
+    "knihy_id": 435,
+    "osoby_id": 17,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5667,
+    "knihy_id": 836,
+    "osoby_id": 143,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5678,
+    "knihy_id": 338,
+    "osoby_id": 129,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5684,
+    "knihy_id": 533,
+    "osoby_id": 271,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5685,
+    "knihy_id": 155,
+    "osoby_id": 14,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5689,
+    "knihy_id": 1309,
+    "osoby_id": 246,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5693,
+    "knihy_id": 1170,
+    "osoby_id": 212,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5694,
+    "knihy_id": 566,
+    "osoby_id": 260,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5709,
+    "knihy_id": 120,
+    "osoby_id": 506,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5714,
+    "knihy_id": 775,
+    "osoby_id": 91,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5716,
+    "knihy_id": 1179,
+    "osoby_id": 118,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5734,
+    "knihy_id": 644,
+    "osoby_id": 417,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5745,
+    "knihy_id": 386,
+    "osoby_id": 484,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5753,
+    "knihy_id": 570,
+    "osoby_id": 413,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5766,
+    "knihy_id": 626,
+    "osoby_id": 447,
+    "poznamka": Poškozená vazba,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5775,
+    "knihy_id": 1026,
+    "osoby_id": 516,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5788,
+    "knihy_id": 246,
+    "osoby_id": 125,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5792,
+    "knihy_id": 517,
+    "osoby_id": 20,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5802,
+    "knihy_id": 1471,
+    "osoby_id": 188,
+    "poznamka": Vzácná, s věnováním, není určena již určena k půjčování,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5806,
+    "knihy_id": 373,
+    "osoby_id": 539,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5824,
+    "knihy_id": 1112,
+    "osoby_id": 455,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5828,
+    "knihy_id": 1424,
+    "osoby_id": 59,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5833,
+    "knihy_id": 1404,
+    "osoby_id": 306,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5836,
+    "knihy_id": 961,
+    "osoby_id": 231,
+    "poznamka": Salátové vydání,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5838,
+    "knihy_id": 450,
+    "osoby_id": 283,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5840,
+    "knihy_id": 1223,
+    "osoby_id": 456,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5850,
+    "knihy_id": 471,
+    "osoby_id": 272,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5851,
+    "knihy_id": 1048,
+    "osoby_id": 549,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5859,
+    "knihy_id": 910,
+    "osoby_id": 234,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5869,
+    "knihy_id": 1380,
+    "osoby_id": 40,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5871,
+    "knihy_id": 1523,
+    "osoby_id": 496,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5876,
+    "knihy_id": 1284,
+    "osoby_id": 125,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5884,
+    "knihy_id": 974,
+    "osoby_id": 463,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5889,
+    "knihy_id": 1006,
+    "osoby_id": 103,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5890,
+    "knihy_id": 676,
+    "osoby_id": 141,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5899,
+    "knihy_id": 458,
+    "osoby_id": 26,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5902,
+    "knihy_id": 155,
+    "osoby_id": 129,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5932,
+    "knihy_id": 269,
+    "osoby_id": 23,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5940,
+    "knihy_id": 1026,
+    "osoby_id": 309,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5942,
+    "knihy_id": 572,
+    "osoby_id": 122,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5949,
+    "knihy_id": 461,
+    "osoby_id": 56,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5964,
+    "knihy_id": 102,
+    "osoby_id": 100,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5970,
+    "knihy_id": 1147,
+    "osoby_id": 234,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5971,
+    "knihy_id": 69,
+    "osoby_id": 429,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5979,
+    "knihy_id": 1079,
+    "osoby_id": 14,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 5983,
+    "knihy_id": 341,
+    "osoby_id": 365,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6003,
+    "knihy_id": 228,
+    "osoby_id": 514,
+    "poznamka": Vzácná, s věnováním, není určena již určena k půjčování,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6009,
+    "knihy_id": 83,
+    "osoby_id": 70,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6011,
+    "knihy_id": 813,
+    "osoby_id": 45,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6014,
+    "knihy_id": 1192,
+    "osoby_id": 17,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6017,
+    "knihy_id": 458,
+    "osoby_id": 265,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6021,
+    "knihy_id": 669,
+    "osoby_id": 548,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6028,
+    "knihy_id": 647,
+    "osoby_id": 488,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6034,
+    "knihy_id": 1272,
+    "osoby_id": 494,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6062,
+    "knihy_id": 883,
+    "osoby_id": 386,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6065,
+    "knihy_id": 1339,
+    "osoby_id": 224,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6069,
+    "knihy_id": 841,
+    "osoby_id": 358,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6117,
+    "knihy_id": 724,
+    "osoby_id": 506,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6118,
+    "knihy_id": 374,
+    "osoby_id": 458,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6121,
+    "knihy_id": 715,
+    "osoby_id": 271,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6123,
+    "knihy_id": 586,
+    "osoby_id": 214,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6140,
+    "knihy_id": 1025,
+    "osoby_id": 243,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6142,
+    "knihy_id": 128,
+    "osoby_id": 27,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6174,
+    "knihy_id": 667,
+    "osoby_id": 492,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6180,
+    "knihy_id": 870,
+    "osoby_id": 505,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6191,
+    "knihy_id": 624,
+    "osoby_id": 203,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6194,
+    "knihy_id": 1409,
+    "osoby_id": 237,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6204,
+    "knihy_id": 361,
+    "osoby_id": 60,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6205,
+    "knihy_id": 227,
+    "osoby_id": 463,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6206,
+    "knihy_id": 20,
+    "osoby_id": 354,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6207,
+    "knihy_id": 793,
+    "osoby_id": 77,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6224,
+    "knihy_id": 42,
+    "osoby_id": 27,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6227,
+    "knihy_id": 1017,
+    "osoby_id": 318,
+    "poznamka": K dispozici jen prezenčně,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6232,
+    "knihy_id": 719,
+    "osoby_id": 77,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6255,
+    "knihy_id": 1324,
+    "osoby_id": 196,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6264,
+    "knihy_id": 1422,
+    "osoby_id": 203,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6269,
+    "knihy_id": 1239,
+    "osoby_id": 537,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6275,
+    "knihy_id": 559,
+    "osoby_id": 17,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6278,
+    "knihy_id": 6,
+    "osoby_id": 101,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6285,
+    "knihy_id": 579,
+    "osoby_id": 230,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6288,
+    "knihy_id": 912,
+    "osoby_id": 532,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6290,
+    "knihy_id": 384,
+    "osoby_id": 293,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6292,
+    "knihy_id": 1405,
+    "osoby_id": 26,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6295,
+    "knihy_id": 797,
+    "osoby_id": 348,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6302,
+    "knihy_id": 1331,
+    "osoby_id": 271,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6311,
+    "knihy_id": 1421,
+    "osoby_id": 394,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6323,
+    "knihy_id": 853,
+    "osoby_id": 254,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6327,
+    "knihy_id": 25,
+    "osoby_id": 61,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6332,
+    "knihy_id": 129,
+    "osoby_id": 385,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6337,
+    "knihy_id": 1317,
+    "osoby_id": 378,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6339,
+    "knihy_id": 554,
+    "osoby_id": 539,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6343,
+    "knihy_id": 439,
+    "osoby_id": 221,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6345,
+    "knihy_id": 267,
+    "osoby_id": 77,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6349,
+    "knihy_id": 1063,
+    "osoby_id": 463,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6350,
+    "knihy_id": 400,
+    "osoby_id": 296,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6358,
+    "knihy_id": 1093,
+    "osoby_id": 272,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6360,
+    "knihy_id": 1279,
+    "osoby_id": 31,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6363,
+    "knihy_id": 983,
+    "osoby_id": 28,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6364,
+    "knihy_id": 1405,
+    "osoby_id": 433,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6368,
+    "knihy_id": 410,
+    "osoby_id": 233,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6370,
+    "knihy_id": 756,
+    "osoby_id": 522,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6373,
+    "knihy_id": 1086,
+    "osoby_id": 234,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6376,
+    "knihy_id": 1191,
+    "osoby_id": 232,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6377,
+    "knihy_id": 61,
+    "osoby_id": 229,
+    "poznamka": Chybí obsah,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6393,
+    "knihy_id": 1301,
+    "osoby_id": 532,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6394,
+    "knihy_id": 138,
+    "osoby_id": 459,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6396,
+    "knihy_id": 1371,
+    "osoby_id": 40,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6401,
+    "knihy_id": 473,
+    "osoby_id": 101,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6405,
+    "knihy_id": 743,
+    "osoby_id": 165,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6411,
+    "knihy_id": 911,
+    "osoby_id": 428,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6419,
+    "knihy_id": 1465,
+    "osoby_id": 363,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6421,
+    "knihy_id": 984,
+    "osoby_id": 564,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6436,
+    "knihy_id": 782,
+    "osoby_id": 28,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6456,
+    "knihy_id": 684,
+    "osoby_id": 145,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6459,
+    "knihy_id": 605,
+    "osoby_id": 130,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6475,
+    "knihy_id": 937,
+    "osoby_id": 70,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6482,
+    "knihy_id": 813,
+    "osoby_id": 527,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6490,
+    "knihy_id": 1293,
+    "osoby_id": 574,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6493,
+    "knihy_id": 214,
+    "osoby_id": 246,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6494,
+    "knihy_id": 378,
+    "osoby_id": 422,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6512,
+    "knihy_id": 587,
+    "osoby_id": 498,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6531,
+    "knihy_id": 806,
+    "osoby_id": 218,
+    "poznamka": Chybí některé strany,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6535,
+    "knihy_id": 513,
+    "osoby_id": 342,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6536,
+    "knihy_id": 1481,
+    "osoby_id": 271,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6542,
+    "knihy_id": 758,
+    "osoby_id": 363,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6553,
+    "knihy_id": 185,
+    "osoby_id": 383,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6559,
+    "knihy_id": 1233,
+    "osoby_id": 4,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6587,
+    "knihy_id": 931,
+    "osoby_id": 300,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6588,
+    "knihy_id": 812,
+    "osoby_id": 99,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6612,
+    "knihy_id": 1052,
+    "osoby_id": 99,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6619,
+    "knihy_id": 590,
+    "osoby_id": 411,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6635,
+    "knihy_id": 370,
+    "osoby_id": 4,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6638,
+    "knihy_id": 356,
+    "osoby_id": 118,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6647,
+    "knihy_id": 312,
+    "osoby_id": 488,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6662,
+    "knihy_id": 1031,
+    "osoby_id": 564,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6687,
+    "knihy_id": 285,
+    "osoby_id": 26,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6689,
+    "knihy_id": 1499,
+    "osoby_id": 367,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6700,
+    "knihy_id": 673,
+    "osoby_id": 218,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6721,
+    "knihy_id": 471,
+    "osoby_id": 492,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6723,
+    "knihy_id": 646,
+    "osoby_id": 195,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6731,
+    "knihy_id": 1414,
+    "osoby_id": 221,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6736,
+    "knihy_id": 51,
+    "osoby_id": 79,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6745,
+    "knihy_id": 451,
+    "osoby_id": 199,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6757,
+    "knihy_id": 1006,
+    "osoby_id": 281,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6783,
+    "knihy_id": 290,
+    "osoby_id": 38,
+    "poznamka": K dispozici jen prezenčně,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6785,
+    "knihy_id": 1431,
+    "osoby_id": 53,
+    "poznamka": K dispozici jen prezenčně,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6789,
+    "knihy_id": 213,
+    "osoby_id": 56,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6792,
+    "knihy_id": 1153,
+    "osoby_id": 145,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6800,
+    "knihy_id": 1026,
+    "osoby_id": 56,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6815,
+    "knihy_id": 520,
+    "osoby_id": 333,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6819,
+    "knihy_id": 652,
+    "osoby_id": 59,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6821,
+    "knihy_id": 993,
+    "osoby_id": 148,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6834,
+    "knihy_id": 1376,
+    "osoby_id": 434,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6835,
+    "knihy_id": 777,
+    "osoby_id": 203,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6836,
+    "knihy_id": 517,
+    "osoby_id": 217,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6840,
+    "knihy_id": 439,
+    "osoby_id": 529,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6843,
+    "knihy_id": 466,
+    "osoby_id": 444,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6847,
+    "knihy_id": 1345,
+    "osoby_id": 271,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6859,
+    "knihy_id": 1191,
+    "osoby_id": 156,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6864,
+    "knihy_id": 1500,
+    "osoby_id": 17,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6867,
+    "knihy_id": 1533,
+    "osoby_id": 280,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6868,
+    "knihy_id": 1514,
+    "osoby_id": 140,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6870,
+    "knihy_id": 1514,
+    "osoby_id": 539,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6884,
+    "knihy_id": 807,
+    "osoby_id": 346,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6885,
+    "knihy_id": 1212,
+    "osoby_id": 372,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6897,
+    "knihy_id": 411,
+    "osoby_id": 498,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6906,
+    "knihy_id": 1224,
+    "osoby_id": 486,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6920,
+    "knihy_id": 909,
+    "osoby_id": 26,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6944,
+    "knihy_id": 1116,
+    "osoby_id": 430,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6953,
+    "knihy_id": 719,
+    "osoby_id": 386,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6964,
+    "knihy_id": 119,
+    "osoby_id": 528,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6970,
+    "knihy_id": 312,
+    "osoby_id": 118,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6972,
+    "knihy_id": 1051,
+    "osoby_id": 143,
+    "poznamka": Chybí obsah,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6975,
+    "knihy_id": 1516,
+    "osoby_id": 272,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6976,
+    "knihy_id": 799,
+    "osoby_id": 434,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6979,
+    "knihy_id": 343,
+    "osoby_id": 258,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 6995,
+    "knihy_id": 875,
+    "osoby_id": 21,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7006,
+    "knihy_id": 972,
+    "osoby_id": 456,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7038,
+    "knihy_id": 1128,
+    "osoby_id": 394,
+    "poznamka": Chybí obsah,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7048,
+    "knihy_id": 344,
+    "osoby_id": 58,
+    "poznamka": K dispozici jen prezenčně,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7060,
+    "knihy_id": 161,
+    "osoby_id": 508,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7062,
+    "knihy_id": 1053,
+    "osoby_id": 229,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7064,
+    "knihy_id": 449,
+    "osoby_id": 222,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7071,
+    "knihy_id": 621,
+    "osoby_id": 271,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7079,
+    "knihy_id": 1252,
+    "osoby_id": 246,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7085,
+    "knihy_id": 1285,
+    "osoby_id": 300,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7092,
+    "knihy_id": 569,
+    "osoby_id": 527,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7101,
+    "knihy_id": 782,
+    "osoby_id": 445,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7109,
+    "knihy_id": 400,
+    "osoby_id": 9,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7130,
+    "knihy_id": 631,
+    "osoby_id": 61,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7140,
+    "knihy_id": 657,
+    "osoby_id": 28,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7163,
+    "knihy_id": 52,
+    "osoby_id": 356,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7171,
+    "knihy_id": 1486,
+    "osoby_id": 300,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7173,
+    "knihy_id": 743,
+    "osoby_id": 210,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7184,
+    "knihy_id": 1436,
+    "osoby_id": 333,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7203,
+    "knihy_id": 1075,
+    "osoby_id": 575,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7213,
+    "knihy_id": 81,
+    "osoby_id": 522,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7218,
+    "knihy_id": 728,
+    "osoby_id": 283,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7252,
+    "knihy_id": 134,
+    "osoby_id": 243,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7261,
+    "knihy_id": 873,
+    "osoby_id": 260,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7263,
+    "knihy_id": 702,
+    "osoby_id": 489,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7269,
+    "knihy_id": 473,
+    "osoby_id": 241,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7276,
+    "knihy_id": 42,
+    "osoby_id": 517,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7288,
+    "knihy_id": 552,
+    "osoby_id": 516,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7289,
+    "knihy_id": 733,
+    "osoby_id": 28,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7306,
+    "knihy_id": 386,
+    "osoby_id": 168,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7307,
+    "knihy_id": 17,
+    "osoby_id": 229,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7308,
+    "knihy_id": 1086,
+    "osoby_id": 422,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7312,
+    "knihy_id": 376,
+    "osoby_id": 464,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7317,
+    "knihy_id": 904,
+    "osoby_id": 429,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7326,
+    "knihy_id": 520,
+    "osoby_id": 129,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7328,
+    "knihy_id": 655,
+    "osoby_id": 283,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7331,
+    "knihy_id": 185,
+    "osoby_id": 21,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7339,
+    "knihy_id": 989,
+    "osoby_id": 35,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7366,
+    "knihy_id": 1342,
+    "osoby_id": 472,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7382,
+    "knihy_id": 116,
+    "osoby_id": 31,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7404,
+    "knihy_id": 264,
+    "osoby_id": 188,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7424,
+    "knihy_id": 374,
+    "osoby_id": 186,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7431,
+    "knihy_id": 772,
+    "osoby_id": 31,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7438,
+    "knihy_id": 1430,
+    "osoby_id": 445,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7464,
+    "knihy_id": 164,
+    "osoby_id": 230,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7471,
+    "knihy_id": 667,
+    "osoby_id": 482,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7481,
+    "knihy_id": 763,
+    "osoby_id": 420,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7487,
+    "knihy_id": 1257,
+    "osoby_id": 21,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7496,
+    "knihy_id": 1069,
+    "osoby_id": 105,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7498,
+    "knihy_id": 171,
+    "osoby_id": 246,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7511,
+    "knihy_id": 451,
+    "osoby_id": 165,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7512,
+    "knihy_id": 148,
+    "osoby_id": 30,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7514,
+    "knihy_id": 947,
+    "osoby_id": 168,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7515,
+    "knihy_id": 1281,
+    "osoby_id": 248,
+    "poznamka": Poškozená vazba,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7520,
+    "knihy_id": 239,
+    "osoby_id": 382,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7528,
+    "knihy_id": 1041,
+    "osoby_id": 237,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7531,
+    "knihy_id": 285,
+    "osoby_id": 308,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7534,
+    "knihy_id": 1065,
+    "osoby_id": 489,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7537,
+    "knihy_id": 706,
+    "osoby_id": 193,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7540,
+    "knihy_id": 133,
+    "osoby_id": 74,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7546,
+    "knihy_id": 512,
+    "osoby_id": 141,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7551,
+    "knihy_id": 1516,
+    "osoby_id": 367,
+    "poznamka": Poškozená vazba,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7557,
+    "knihy_id": 100,
+    "osoby_id": 527,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7558,
+    "knihy_id": 74,
+    "osoby_id": 357,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7561,
+    "knihy_id": 141,
+    "osoby_id": 204,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7565,
+    "knihy_id": 215,
+    "osoby_id": 229,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7587,
+    "knihy_id": 449,
+    "osoby_id": 527,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7601,
+    "knihy_id": 285,
+    "osoby_id": 14,
+    "poznamka": Chybí některé strany,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7604,
+    "knihy_id": 659,
+    "osoby_id": 70,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7608,
+    "knihy_id": 240,
+    "osoby_id": 457,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7609,
+    "knihy_id": 636,
+    "osoby_id": 337,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7610,
+    "knihy_id": 1148,
+    "osoby_id": 432,
+    "poznamka": Vzácná, s věnováním, není určena již určena k půjčování,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7613,
+    "knihy_id": 522,
+    "osoby_id": 488,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7618,
+    "knihy_id": 634,
+    "osoby_id": 134,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7637,
+    "knihy_id": 405,
+    "osoby_id": 299,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7645,
+    "knihy_id": 903,
+    "osoby_id": 403,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7684,
+    "knihy_id": 807,
+    "osoby_id": 560,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7703,
+    "knihy_id": 755,
+    "osoby_id": 270,
+    "poznamka": Salátové vydání,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7706,
+    "knihy_id": 754,
+    "osoby_id": 204,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7715,
+    "knihy_id": 38,
+    "osoby_id": 365,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7722,
+    "knihy_id": 812,
+    "osoby_id": 91,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7726,
+    "knihy_id": 326,
+    "osoby_id": 457,
+    "poznamka": Určené k vyřazení,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7732,
+    "knihy_id": 1232,
+    "osoby_id": 247,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7734,
+    "knihy_id": 633,
+    "osoby_id": 269,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7752,
+    "knihy_id": 488,
+    "osoby_id": 118,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7753,
+    "knihy_id": 1035,
+    "osoby_id": 278,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7758,
+    "knihy_id": 1066,
+    "osoby_id": 324,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7760,
+    "knihy_id": 1296,
+    "osoby_id": 398,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7762,
+    "knihy_id": 394,
+    "osoby_id": 210,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7766,
+    "knihy_id": 1011,
+    "osoby_id": 428,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7785,
+    "knihy_id": 1462,
+    "osoby_id": 383,
+    "poznamka": K dispozici jen prezenčně,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7788,
+    "knihy_id": 883,
+    "osoby_id": 571,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7793,
+    "knihy_id": 1052,
+    "osoby_id": 472,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7795,
+    "knihy_id": 1293,
+    "osoby_id": 229,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7800,
+    "knihy_id": 361,
+    "osoby_id": 309,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7813,
+    "knihy_id": 694,
+    "osoby_id": 539,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7833,
+    "knihy_id": 386,
+    "osoby_id": 421,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7846,
+    "knihy_id": 702,
+    "osoby_id": 222,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7850,
+    "knihy_id": 490,
+    "osoby_id": 242,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7854,
+    "knihy_id": 527,
+    "osoby_id": 59,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7856,
+    "knihy_id": 772,
+    "osoby_id": 186,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7859,
+    "knihy_id": 404,
+    "osoby_id": 148,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7862,
+    "knihy_id": 1334,
+    "osoby_id": 441,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7867,
+    "knihy_id": 872,
+    "osoby_id": 301,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7886,
+    "knihy_id": 388,
+    "osoby_id": 37,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7890,
+    "knihy_id": 533,
+    "osoby_id": 377,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7902,
+    "knihy_id": 524,
+    "osoby_id": 372,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7910,
+    "knihy_id": 994,
+    "osoby_id": 377,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7918,
+    "knihy_id": 1281,
+    "osoby_id": 270,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7921,
+    "knihy_id": 1360,
+    "osoby_id": 522,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7923,
+    "knihy_id": 727,
+    "osoby_id": 4,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7924,
+    "knihy_id": 15,
+    "osoby_id": 271,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7934,
+    "knihy_id": 818,
+    "osoby_id": 17,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7941,
+    "knihy_id": 93,
+    "osoby_id": 189,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7960,
+    "knihy_id": 1195,
+    "osoby_id": 457,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7975,
+    "knihy_id": 461,
+    "osoby_id": 260,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 7983,
+    "knihy_id": 1532,
+    "osoby_id": 452,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8002,
+    "knihy_id": 1476,
+    "osoby_id": 34,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8014,
+    "knihy_id": 1411,
+    "osoby_id": 50,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8021,
+    "knihy_id": 836,
+    "osoby_id": 472,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8036,
+    "knihy_id": 673,
+    "osoby_id": 544,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8042,
+    "knihy_id": 1437,
+    "osoby_id": 112,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8048,
+    "knihy_id": 1417,
+    "osoby_id": 318,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8079,
+    "knihy_id": 883,
+    "osoby_id": 31,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8080,
+    "knihy_id": 1532,
+    "osoby_id": 348,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8081,
+    "knihy_id": 966,
+    "osoby_id": 278,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8096,
+    "knihy_id": 831,
+    "osoby_id": 26,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8099,
+    "knihy_id": 1471,
+    "osoby_id": 17,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8123,
+    "knihy_id": 708,
+    "osoby_id": 61,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8128,
+    "knihy_id": 1392,
+    "osoby_id": 417,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8139,
+    "knihy_id": 1357,
+    "osoby_id": 461,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8146,
+    "knihy_id": 981,
+    "osoby_id": 53,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8159,
+    "knihy_id": 143,
+    "osoby_id": 283,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8162,
+    "knihy_id": 552,
+    "osoby_id": 300,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8175,
+    "knihy_id": 240,
+    "osoby_id": 173,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8177,
+    "knihy_id": 1499,
+    "osoby_id": 114,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8179,
+    "knihy_id": 924,
+    "osoby_id": 522,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8183,
+    "knihy_id": 600,
+    "osoby_id": 516,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8186,
+    "knihy_id": 517,
+    "osoby_id": 275,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8187,
+    "knihy_id": 1268,
+    "osoby_id": 322,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8202,
+    "knihy_id": 1307,
+    "osoby_id": 85,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8206,
+    "knihy_id": 1040,
+    "osoby_id": 141,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8208,
+    "knihy_id": 1464,
+    "osoby_id": 227,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8212,
+    "knihy_id": 1325,
+    "osoby_id": 163,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8216,
+    "knihy_id": 1026,
+    "osoby_id": 23,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8217,
+    "knihy_id": 1381,
+    "osoby_id": 4,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8227,
+    "knihy_id": 1040,
+    "osoby_id": 152,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8230,
+    "knihy_id": 378,
+    "osoby_id": 178,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8244,
+    "knihy_id": 807,
+    "osoby_id": 73,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8245,
+    "knihy_id": 148,
+    "osoby_id": 367,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8250,
+    "knihy_id": 45,
+    "osoby_id": 422,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8251,
+    "knihy_id": 768,
+    "osoby_id": 173,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8256,
+    "knihy_id": 559,
+    "osoby_id": 195,
+    "poznamka": Vzácná, s věnováním, není určena již určena k půjčování,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8260,
+    "knihy_id": 1376,
+    "osoby_id": 28,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8261,
+    "knihy_id": 1179,
+    "osoby_id": 167,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8265,
+    "knihy_id": 1407,
+    "osoby_id": 28,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8266,
+    "knihy_id": 1457,
+    "osoby_id": 195,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8270,
+    "knihy_id": 1093,
+    "osoby_id": 428,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8275,
+    "knihy_id": 464,
+    "osoby_id": 376,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8278,
+    "knihy_id": 482,
+    "osoby_id": 383,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8279,
+    "knihy_id": 138,
+    "osoby_id": 77,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8287,
+    "knihy_id": 623,
+    "osoby_id": 455,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8302,
+    "knihy_id": 122,
+    "osoby_id": 422,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8304,
+    "knihy_id": 587,
+    "osoby_id": 281,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8307,
+    "knihy_id": 349,
+    "osoby_id": 358,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8310,
+    "knihy_id": 872,
+    "osoby_id": 322,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8320,
+    "knihy_id": 45,
+    "osoby_id": 232,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8323,
+    "knihy_id": 1280,
+    "osoby_id": 564,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8330,
+    "knihy_id": 636,
+    "osoby_id": 248,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8352,
+    "knihy_id": 760,
+    "osoby_id": 131,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8358,
+    "knihy_id": 718,
+    "osoby_id": 217,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8359,
+    "knihy_id": 1486,
+    "osoby_id": 392,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8365,
+    "knihy_id": 1120,
+    "osoby_id": 140,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8367,
+    "knihy_id": 42,
+    "osoby_id": 241,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8376,
+    "knihy_id": 640,
+    "osoby_id": 104,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8398,
+    "knihy_id": 1120,
+    "osoby_id": 38,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8405,
+    "knihy_id": 916,
+    "osoby_id": 530,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8408,
+    "knihy_id": 990,
+    "osoby_id": 265,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8420,
+    "knihy_id": 493,
+    "osoby_id": 243,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8423,
+    "knihy_id": 1501,
+    "osoby_id": 444,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8425,
+    "knihy_id": 464,
+    "osoby_id": 270,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8435,
+    "knihy_id": 889,
+    "osoby_id": 444,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8441,
+    "knihy_id": 727,
+    "osoby_id": 449,
+    "poznamka": Poškozená vazba,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8461,
+    "knihy_id": 877,
+    "osoby_id": 417,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8472,
+    "knihy_id": 1486,
+    "osoby_id": 231,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8477,
+    "knihy_id": 984,
+    "osoby_id": 193,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8493,
+    "knihy_id": 658,
+    "osoby_id": 63,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8497,
+    "knihy_id": 619,
+    "osoby_id": 470,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8509,
+    "knihy_id": 1292,
+    "osoby_id": 492,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8511,
+    "knihy_id": 404,
+    "osoby_id": 101,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8512,
+    "knihy_id": 290,
+    "osoby_id": 298,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8514,
+    "knihy_id": 64,
+    "osoby_id": 288,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8521,
+    "knihy_id": 655,
+    "osoby_id": 567,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8529,
+    "knihy_id": 807,
+    "osoby_id": 41,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8548,
+    "knihy_id": 226,
+    "osoby_id": 532,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8556,
+    "knihy_id": 1413,
+    "osoby_id": 85,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8567,
+    "knihy_id": 964,
+    "osoby_id": 37,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8572,
+    "knihy_id": 444,
+    "osoby_id": 548,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8586,
+    "knihy_id": 883,
+    "osoby_id": 484,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8590,
+    "knihy_id": 1135,
+    "osoby_id": 429,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8593,
+    "knihy_id": 268,
+    "osoby_id": 66,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8605,
+    "knihy_id": 989,
+    "osoby_id": 242,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8621,
+    "knihy_id": 1421,
+    "osoby_id": 217,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8622,
+    "knihy_id": 22,
+    "osoby_id": 248,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8623,
+    "knihy_id": 884,
+    "osoby_id": 544,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8631,
+    "knihy_id": 327,
+    "osoby_id": 527,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8632,
+    "knihy_id": 489,
+    "osoby_id": 71,
+    "poznamka": Fotokopie originálu,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8633,
+    "knihy_id": 31,
+    "osoby_id": 505,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8648,
+    "knihy_id": 644,
+    "osoby_id": 148,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8657,
+    "knihy_id": 854,
+    "osoby_id": 199,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8665,
+    "knihy_id": 1344,
+    "osoby_id": 229,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8668,
+    "knihy_id": 26,
+    "osoby_id": 522,
+    "poznamka": K dispozici jen prezenčně,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8672,
+    "knihy_id": 1305,
+    "osoby_id": 394,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8673,
+    "knihy_id": 483,
+    "osoby_id": 74,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8702,
+    "knihy_id": 905,
+    "osoby_id": 131,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8714,
+    "knihy_id": 74,
+    "osoby_id": 529,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8724,
+    "knihy_id": 980,
+    "osoby_id": 21,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8746,
+    "knihy_id": 1380,
+    "osoby_id": 342,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8750,
+    "knihy_id": 697,
+    "osoby_id": 418,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8760,
+    "knihy_id": 1158,
+    "osoby_id": 571,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8775,
+    "knihy_id": 880,
+    "osoby_id": 560,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8782,
+    "knihy_id": 684,
+    "osoby_id": 556,
+    "poznamka": Poškozená vazba,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8804,
+    "knihy_id": 753,
+    "osoby_id": 269,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8805,
+    "knihy_id": 618,
+    "osoby_id": 145,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8812,
+    "knihy_id": 624,
+    "osoby_id": 59,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8814,
+    "knihy_id": 674,
+    "osoby_id": 21,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8816,
+    "knihy_id": 644,
+    "osoby_id": 348,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8829,
+    "knihy_id": 509,
+    "osoby_id": 428,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8831,
+    "knihy_id": 1419,
+    "osoby_id": 248,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8832,
+    "knihy_id": 276,
+    "osoby_id": 501,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8839,
+    "knihy_id": 314,
+    "osoby_id": 539,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8844,
+    "knihy_id": 433,
+    "osoby_id": 118,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8868,
+    "knihy_id": 1219,
+    "osoby_id": 283,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8881,
+    "knihy_id": 548,
+    "osoby_id": 333,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8903,
+    "knihy_id": 1086,
+    "osoby_id": 498,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8918,
+    "knihy_id": 206,
+    "osoby_id": 114,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8922,
+    "knihy_id": 907,
+    "osoby_id": 358,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8926,
+    "knihy_id": 1482,
+    "osoby_id": 418,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8929,
+    "knihy_id": 394,
+    "osoby_id": 59,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8932,
+    "knihy_id": 1293,
+    "osoby_id": 525,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8933,
+    "knihy_id": 1314,
+    "osoby_id": 1,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8935,
+    "knihy_id": 400,
+    "osoby_id": 24,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8936,
+    "knihy_id": 1075,
+    "osoby_id": 131,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8948,
+    "knihy_id": 667,
+    "osoby_id": 59,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8950,
+    "knihy_id": 319,
+    "osoby_id": 178,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8962,
+    "knihy_id": 1260,
+    "osoby_id": 242,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8969,
+    "knihy_id": 450,
+    "osoby_id": 486,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8993,
+    "knihy_id": 677,
+    "osoby_id": 336,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 8998,
+    "knihy_id": 1369,
+    "osoby_id": 58,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9016,
+    "knihy_id": 1358,
+    "osoby_id": 358,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9020,
+    "knihy_id": 319,
+    "osoby_id": 308,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9027,
+    "knihy_id": 378,
+    "osoby_id": 447,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9038,
+    "knihy_id": 45,
+    "osoby_id": 544,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9062,
+    "knihy_id": 1380,
+    "osoby_id": 158,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9063,
+    "knihy_id": 120,
+    "osoby_id": 293,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9073,
+    "knihy_id": 10,
+    "osoby_id": 300,
+    "poznamka": Zamluvená,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9078,
+    "knihy_id": 1496,
+    "osoby_id": 337,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9080,
+    "knihy_id": 1436,
+    "osoby_id": 472,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9090,
+    "knihy_id": 136,
+    "osoby_id": 463,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9096,
+    "knihy_id": 1494,
+    "osoby_id": 293,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9102,
+    "knihy_id": 130,
+    "osoby_id": 432,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9107,
+    "knihy_id": 1368,
+    "osoby_id": 398,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9112,
+    "knihy_id": 711,
+    "osoby_id": 454,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9118,
+    "knihy_id": 122,
+    "osoby_id": 168,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9132,
+    "knihy_id": 460,
+    "osoby_id": 527,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9146,
+    "knihy_id": 84,
+    "osoby_id": 289,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9163,
+    "knihy_id": 1251,
+    "osoby_id": 274,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9179,
+    "knihy_id": 1265,
+    "osoby_id": 189,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9181,
+    "knihy_id": 1001,
+    "osoby_id": 528,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9186,
+    "knihy_id": 917,
+    "osoby_id": 363,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9216,
+    "knihy_id": 17,
+    "osoby_id": 225,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9221,
+    "knihy_id": 202,
+    "osoby_id": 314,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9223,
+    "knihy_id": 18,
+    "osoby_id": 28,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9228,
+    "knihy_id": 141,
+    "osoby_id": 574,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9234,
+    "knihy_id": 215,
+    "osoby_id": 45,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9240,
+    "knihy_id": 509,
+    "osoby_id": 35,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9245,
+    "knihy_id": 1102,
+    "osoby_id": 173,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9254,
+    "knihy_id": 1069,
+    "osoby_id": 61,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9258,
+    "knihy_id": 1081,
+    "osoby_id": 61,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9259,
+    "knihy_id": 388,
+    "osoby_id": 411,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9275,
+    "knihy_id": 924,
+    "osoby_id": 27,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9284,
+    "knihy_id": 468,
+    "osoby_id": 270,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9298,
+    "knihy_id": 1075,
+    "osoby_id": 105,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9301,
+    "knihy_id": 544,
+    "osoby_id": 212,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9311,
+    "knihy_id": 1453,
+    "osoby_id": 45,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9314,
+    "knihy_id": 507,
+    "osoby_id": 400,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9327,
+    "knihy_id": 22,
+    "osoby_id": 40,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9328,
+    "knihy_id": 660,
+    "osoby_id": 464,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9331,
+    "knihy_id": 978,
+    "osoby_id": 381,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9337,
+    "knihy_id": 1242,
+    "osoby_id": 26,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9343,
+    "knihy_id": 73,
+    "osoby_id": 134,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9354,
+    "knihy_id": 1179,
+    "osoby_id": 484,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9356,
+    "knihy_id": 100,
+    "osoby_id": 487,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9357,
+    "knihy_id": 419,
+    "osoby_id": 381,
+    "poznamka": Poškozená vazba,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9370,
+    "knihy_id": 1120,
+    "osoby_id": 271,
+    "poznamka": Chybí obsah,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9371,
+    "knihy_id": 1329,
+    "osoby_id": 114,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9384,
+    "knihy_id": 1048,
+    "osoby_id": 256,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9387,
+    "knihy_id": 1112,
+    "osoby_id": 77,
+    "poznamka": Poškozená vazba,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9388,
+    "knihy_id": 1495,
+    "osoby_id": 257,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9401,
+    "knihy_id": 1481,
+    "osoby_id": 129,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9406,
+    "knihy_id": 767,
+    "osoby_id": 260,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9422,
+    "knihy_id": 23,
+    "osoby_id": 158,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9424,
+    "knihy_id": 213,
+    "osoby_id": 348,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9431,
+    "knihy_id": 512,
+    "osoby_id": 283,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9438,
+    "knihy_id": 1023,
+    "osoby_id": 248,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9442,
+    "knihy_id": 1192,
+    "osoby_id": 296,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9463,
+    "knihy_id": 993,
+    "osoby_id": 358,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9469,
+    "knihy_id": 1462,
+    "osoby_id": 212,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9482,
+    "knihy_id": 877,
+    "osoby_id": 269,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9487,
+    "knihy_id": 660,
+    "osoby_id": 278,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9492,
+    "knihy_id": 42,
+    "osoby_id": 417,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9494,
+    "knihy_id": 107,
+    "osoby_id": 231,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9501,
+    "knihy_id": 670,
+    "osoby_id": 517,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9502,
+    "knihy_id": 454,
+    "osoby_id": 256,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9513,
+    "knihy_id": 1397,
+    "osoby_id": 417,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9530,
+    "knihy_id": 602,
+    "osoby_id": 231,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9531,
+    "knihy_id": 458,
+    "osoby_id": 104,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9532,
+    "knihy_id": 1228,
+    "osoby_id": 575,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9537,
+    "knihy_id": 239,
+    "osoby_id": 283,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9544,
+    "knihy_id": 248,
+    "osoby_id": 429,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9547,
+    "knihy_id": 1444,
+    "osoby_id": 4,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9557,
+    "knihy_id": 553,
+    "osoby_id": 15,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9559,
+    "knihy_id": 806,
+    "osoby_id": 532,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9582,
+    "knihy_id": 1252,
+    "osoby_id": 383,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9586,
+    "knihy_id": 575,
+    "osoby_id": 210,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9594,
+    "knihy_id": 878,
+    "osoby_id": 420,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9595,
+    "knihy_id": 206,
+    "osoby_id": 394,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9597,
+    "knihy_id": 404,
+    "osoby_id": 173,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9602,
+    "knihy_id": 507,
+    "osoby_id": 549,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9614,
+    "knihy_id": 733,
+    "osoby_id": 150,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9616,
+    "knihy_id": 1392,
+    "osoby_id": 272,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9630,
+    "knihy_id": 129,
+    "osoby_id": 196,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9648,
+    "knihy_id": 1257,
+    "osoby_id": 61,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9651,
+    "knihy_id": 673,
+    "osoby_id": 464,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9654,
+    "knihy_id": 84,
+    "osoby_id": 168,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9658,
+    "knihy_id": 1233,
+    "osoby_id": 382,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9665,
+    "knihy_id": 773,
+    "osoby_id": 209,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9676,
+    "knihy_id": 729,
+    "osoby_id": 564,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9678,
+    "knihy_id": 790,
+    "osoby_id": 528,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9697,
+    "knihy_id": 404,
+    "osoby_id": 218,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9705,
+    "knihy_id": 1417,
+    "osoby_id": 532,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9707,
+    "knihy_id": 174,
+    "osoby_id": 193,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9708,
+    "knihy_id": 969,
+    "osoby_id": 535,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9712,
+    "knihy_id": 907,
+    "osoby_id": 70,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9715,
+    "knihy_id": 221,
+    "osoby_id": 148,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9730,
+    "knihy_id": 507,
+    "osoby_id": 45,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9736,
+    "knihy_id": 886,
+    "osoby_id": 1,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9745,
+    "knihy_id": 1344,
+    "osoby_id": 456,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9748,
+    "knihy_id": 1012,
+    "osoby_id": 193,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9751,
+    "knihy_id": 394,
+    "osoby_id": 482,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9766,
+    "knihy_id": 561,
+    "osoby_id": 532,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9777,
+    "knihy_id": 1523,
+    "osoby_id": 99,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9783,
+    "knihy_id": 1075,
+    "osoby_id": 153,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9788,
+    "knihy_id": 1198,
+    "osoby_id": 61,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9794,
+    "knihy_id": 618,
+    "osoby_id": 430,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9796,
+    "knihy_id": 724,
+    "osoby_id": 260,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9803,
+    "knihy_id": 837,
+    "osoby_id": 38,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9814,
+    "knihy_id": 580,
+    "osoby_id": 488,
+    "poznamka": Vzácná, s věnováním, není určena již určena k půjčování,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9819,
+    "knihy_id": 729,
+    "osoby_id": 150,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9824,
+    "knihy_id": 931,
+    "osoby_id": 189,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9825,
+    "knihy_id": 663,
+    "osoby_id": 9,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9831,
+    "knihy_id": 1002,
+    "osoby_id": 158,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9848,
+    "knihy_id": 1397,
+    "osoby_id": 472,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9851,
+    "knihy_id": 1017,
+    "osoby_id": 271,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9856,
+    "knihy_id": 1175,
+    "osoby_id": 533,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9859,
+    "knihy_id": 788,
+    "osoby_id": 61,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9861,
+    "knihy_id": 907,
+    "osoby_id": 260,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9864,
+    "knihy_id": 522,
+    "osoby_id": 527,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9866,
+    "knihy_id": 1010,
+    "osoby_id": 517,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9881,
+    "knihy_id": 1448,
+    "osoby_id": 469,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9888,
+    "knihy_id": 1284,
+    "osoby_id": 133,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9904,
+    "knihy_id": 361,
+    "osoby_id": 59,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9909,
+    "knihy_id": 733,
+    "osoby_id": 214,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9914,
+    "knihy_id": 155,
+    "osoby_id": 246,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9915,
+    "knihy_id": 891,
+    "osoby_id": 458,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9928,
+    "knihy_id": 100,
+    "osoby_id": 456,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9932,
+    "knihy_id": 1397,
+    "osoby_id": 114,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9947,
+    "knihy_id": 1468,
+    "osoby_id": 356,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9965,
+    "knihy_id": 831,
+    "osoby_id": 105,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9966,
+    "knihy_id": 1309,
+    "osoby_id": 457,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9970,
+    "knihy_id": 213,
+    "osoby_id": 153,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9972,
+    "knihy_id": 1231,
+    "osoby_id": 60,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9980,
+    "knihy_id": 1324,
+    "osoby_id": 275,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9991,
+    "knihy_id": 202,
+    "osoby_id": 28,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 9993,
+    "knihy_id": 152,
+    "osoby_id": 165,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10011,
+    "knihy_id": 317,
+    "osoby_id": 35,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10028,
+    "knihy_id": 442,
+    "osoby_id": 28,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10039,
+    "knihy_id": 1177,
+    "osoby_id": 434,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10044,
+    "knihy_id": 905,
+    "osoby_id": 346,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10051,
+    "knihy_id": 755,
+    "osoby_id": 308,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10054,
+    "knihy_id": 1305,
+    "osoby_id": 411,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10059,
+    "knihy_id": 39,
+    "osoby_id": 342,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10063,
+    "knihy_id": 7,
+    "osoby_id": 265,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10072,
+    "knihy_id": 623,
+    "osoby_id": 4,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10075,
+    "knihy_id": 136,
+    "osoby_id": 122,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10087,
+    "knihy_id": 647,
+    "osoby_id": 74,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10089,
+    "knihy_id": 355,
+    "osoby_id": 527,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10093,
+    "knihy_id": 677,
+    "osoby_id": 249,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10100,
+    "knihy_id": 1026,
+    "osoby_id": 444,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10101,
+    "knihy_id": 619,
+    "osoby_id": 535,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10103,
+    "knihy_id": 753,
+    "osoby_id": 100,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10108,
+    "knihy_id": 119,
+    "osoby_id": 59,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10111,
+    "knihy_id": 1530,
+    "osoby_id": 503,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10112,
+    "knihy_id": 877,
+    "osoby_id": 394,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10120,
+    "knihy_id": 125,
+    "osoby_id": 376,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10152,
+    "knihy_id": 182,
+    "osoby_id": 449,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10167,
+    "knihy_id": 1178,
+    "osoby_id": 457,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10170,
+    "knihy_id": 66,
+    "osoby_id": 388,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10198,
+    "knihy_id": 733,
+    "osoby_id": 114,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10214,
+    "knihy_id": 349,
+    "osoby_id": 514,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10215,
+    "knihy_id": 314,
+    "osoby_id": 168,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10224,
+    "knihy_id": 1165,
+    "osoby_id": 9,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10254,
+    "knihy_id": 594,
+    "osoby_id": 227,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10255,
+    "knihy_id": 322,
+    "osoby_id": 271,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10260,
+    "knihy_id": 1376,
+    "osoby_id": 428,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10282,
+    "knihy_id": 1229,
+    "osoby_id": 1,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10297,
+    "knihy_id": 1501,
+    "osoby_id": 24,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10298,
+    "knihy_id": 304,
+    "osoby_id": 392,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10318,
+    "knihy_id": 673,
+    "osoby_id": 134,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10339,
+    "knihy_id": 1496,
+    "osoby_id": 445,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10349,
+    "knihy_id": 818,
+    "osoby_id": 131,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10389,
+    "knihy_id": 976,
+    "osoby_id": 288,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10398,
+    "knihy_id": 1433,
+    "osoby_id": 4,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10402,
+    "knihy_id": 964,
+    "osoby_id": 188,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10414,
+    "knihy_id": 476,
+    "osoby_id": 567,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10425,
+    "knihy_id": 22,
+    "osoby_id": 143,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10429,
+    "knihy_id": 920,
+    "osoby_id": 150,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10443,
+    "knihy_id": 497,
+    "osoby_id": 258,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10446,
+    "knihy_id": 659,
+    "osoby_id": 381,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10450,
+    "knihy_id": 1265,
+    "osoby_id": 333,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10460,
+    "knihy_id": 1494,
+    "osoby_id": 214,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10469,
+    "knihy_id": 22,
+    "osoby_id": 278,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10474,
+    "knihy_id": 1317,
+    "osoby_id": 41,
+    "poznamka": Chybí některé strany,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10477,
+    "knihy_id": 244,
+    "osoby_id": 549,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10478,
+    "knihy_id": 517,
+    "osoby_id": 475,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10500,
+    "knihy_id": 666,
+    "osoby_id": 74,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10510,
+    "knihy_id": 26,
+    "osoby_id": 378,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10511,
+    "knihy_id": 421,
+    "osoby_id": 143,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10530,
+    "knihy_id": 1448,
+    "osoby_id": 145,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10534,
+    "knihy_id": 743,
+    "osoby_id": 363,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10536,
+    "knihy_id": 836,
+    "osoby_id": 143,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10539,
+    "knihy_id": 20,
+    "osoby_id": 537,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10545,
+    "knihy_id": 509,
+    "osoby_id": 461,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10547,
+    "knihy_id": 338,
+    "osoby_id": 129,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10553,
+    "knihy_id": 533,
+    "osoby_id": 271,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10554,
+    "knihy_id": 155,
+    "osoby_id": 14,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10558,
+    "knihy_id": 1309,
+    "osoby_id": 246,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10564,
+    "knihy_id": 467,
+    "osoby_id": 484,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10570,
+    "knihy_id": 685,
+    "osoby_id": 71,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10571,
+    "knihy_id": 1221,
+    "osoby_id": 14,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10578,
+    "knihy_id": 120,
+    "osoby_id": 506,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10580,
+    "knihy_id": 884,
+    "osoby_id": 484,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10603,
+    "knihy_id": 644,
+    "osoby_id": 417,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10622,
+    "knihy_id": 570,
+    "osoby_id": 413,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10625,
+    "knihy_id": 1421,
+    "osoby_id": 269,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10635,
+    "knihy_id": 626,
+    "osoby_id": 447,
+    "poznamka": Poškozená vazba,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10644,
+    "knihy_id": 1026,
+    "osoby_id": 516,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10650,
+    "knihy_id": 212,
+    "osoby_id": 363,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10657,
+    "knihy_id": 246,
+    "osoby_id": 125,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10660,
+    "knihy_id": 66,
+    "osoby_id": 324,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10667,
+    "knihy_id": 162,
+    "osoby_id": 131,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10672,
+    "knihy_id": 670,
+    "osoby_id": 79,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10693,
+    "knihy_id": 1112,
+    "osoby_id": 455,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10694,
+    "knihy_id": 946,
+    "osoby_id": 60,
+    "poznamka": Vzácná, s věnováním, není určena již určena k půjčování,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10697,
+    "knihy_id": 1424,
+    "osoby_id": 59,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10702,
+    "knihy_id": 1404,
+    "osoby_id": 306,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10713,
+    "knihy_id": 1331,
+    "osoby_id": 193,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10718,
+    "knihy_id": 234,
+    "osoby_id": 27,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10720,
+    "knihy_id": 1048,
+    "osoby_id": 549,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10728,
+    "knihy_id": 910,
+    "osoby_id": 234,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10730,
+    "knihy_id": 468,
+    "osoby_id": 544,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10740,
+    "knihy_id": 1523,
+    "osoby_id": 496,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10752,
+    "knihy_id": 1293,
+    "osoby_id": 152,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10758,
+    "knihy_id": 1006,
+    "osoby_id": 103,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10759,
+    "knihy_id": 676,
+    "osoby_id": 141,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10768,
+    "knihy_id": 458,
+    "osoby_id": 26,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10771,
+    "knihy_id": 155,
+    "osoby_id": 129,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10783,
+    "knihy_id": 1511,
+    "osoby_id": 296,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10784,
+    "knihy_id": 410,
+    "osoby_id": 248,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10809,
+    "knihy_id": 1026,
+    "osoby_id": 309,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10818,
+    "knihy_id": 461,
+    "osoby_id": 56,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10828,
+    "knihy_id": 1309,
+    "osoby_id": 37,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10833,
+    "knihy_id": 102,
+    "osoby_id": 100,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10840,
+    "knihy_id": 69,
+    "osoby_id": 429,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10848,
+    "knihy_id": 1079,
+    "osoby_id": 14,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10852,
+    "knihy_id": 341,
+    "osoby_id": 365,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10872,
+    "knihy_id": 228,
+    "osoby_id": 514,
+    "poznamka": Vzácná, s věnováním, není určena již určena k půjčování,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10878,
+    "knihy_id": 83,
+    "osoby_id": 70,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10880,
+    "knihy_id": 813,
+    "osoby_id": 45,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10891,
+    "knihy_id": 1492,
+    "osoby_id": 314,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10903,
+    "knihy_id": 1272,
+    "osoby_id": 494,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10910,
+    "knihy_id": 1036,
+    "osoby_id": 533,
+    "poznamka": Poškozená vazba,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10917,
+    "knihy_id": 1081,
+    "osoby_id": 525,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10918,
+    "knihy_id": 657,
+    "osoby_id": 413,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10931,
+    "knihy_id": 883,
+    "osoby_id": 386,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10933,
+    "knihy_id": 1260,
+    "osoby_id": 232,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10934,
+    "knihy_id": 1339,
+    "osoby_id": 224,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10938,
+    "knihy_id": 841,
+    "osoby_id": 358,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10943,
+    "knihy_id": 792,
+    "osoby_id": 463,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10944,
+    "knihy_id": 1452,
+    "osoby_id": 38,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10948,
+    "knihy_id": 383,
+    "osoby_id": 396,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10950,
+    "knihy_id": 1347,
+    "osoby_id": 463,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10966,
+    "knihy_id": 976,
+    "osoby_id": 97,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10969,
+    "knihy_id": 633,
+    "osoby_id": 283,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10986,
+    "knihy_id": 724,
+    "osoby_id": 506,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10987,
+    "knihy_id": 374,
+    "osoby_id": 458,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10990,
+    "knihy_id": 715,
+    "osoby_id": 271,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 10992,
+    "knihy_id": 586,
+    "osoby_id": 214,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11004,
+    "knihy_id": 984,
+    "osoby_id": 24,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11005,
+    "knihy_id": 28,
+    "osoby_id": 386,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11009,
+    "knihy_id": 1025,
+    "osoby_id": 243,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11011,
+    "knihy_id": 128,
+    "osoby_id": 27,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11019,
+    "knihy_id": 573,
+    "osoby_id": 339,
+    "poznamka": Vzácná, s věnováním, není určena již určena k půjčování,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11022,
+    "knihy_id": 1122,
+    "osoby_id": 484,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11029,
+    "knihy_id": 404,
+    "osoby_id": 342,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11041,
+    "knihy_id": 899,
+    "osoby_id": 258,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11056,
+    "knihy_id": 1148,
+    "osoby_id": 293,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11060,
+    "knihy_id": 624,
+    "osoby_id": 203,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11061,
+    "knihy_id": 372,
+    "osoby_id": 429,
+    "poznamka": Určené k vyřazení,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11063,
+    "knihy_id": 1409,
+    "osoby_id": 237,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11090,
+    "knihy_id": 314,
+    "osoby_id": 273,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11093,
+    "knihy_id": 42,
+    "osoby_id": 27,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11095,
+    "knihy_id": 284,
+    "osoby_id": 484,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11101,
+    "knihy_id": 719,
+    "osoby_id": 77,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11115,
+    "knihy_id": 1375,
+    "osoby_id": 295,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11118,
+    "knihy_id": 130,
+    "osoby_id": 463,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11131,
+    "knihy_id": 397,
+    "osoby_id": 20,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11133,
+    "knihy_id": 1422,
+    "osoby_id": 203,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11159,
+    "knihy_id": 384,
+    "osoby_id": 293,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11169,
+    "knihy_id": 506,
+    "osoby_id": 336,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11196,
+    "knihy_id": 25,
+    "osoby_id": 61,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11197,
+    "knihy_id": 988,
+    "osoby_id": 218,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11201,
+    "knihy_id": 129,
+    "osoby_id": 385,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11202,
+    "knihy_id": 633,
+    "osoby_id": 559,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11208,
+    "knihy_id": 554,
+    "osoby_id": 539,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11214,
+    "knihy_id": 267,
+    "osoby_id": 77,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11216,
+    "knihy_id": 687,
+    "osoby_id": 354,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11219,
+    "knihy_id": 400,
+    "osoby_id": 296,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11229,
+    "knihy_id": 1279,
+    "osoby_id": 31,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11232,
+    "knihy_id": 983,
+    "osoby_id": 28,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11234,
+    "knihy_id": 394,
+    "osoby_id": 527,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11237,
+    "knihy_id": 410,
+    "osoby_id": 233,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11239,
+    "knihy_id": 756,
+    "osoby_id": 522,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11242,
+    "knihy_id": 1086,
+    "osoby_id": 234,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11245,
+    "knihy_id": 1191,
+    "osoby_id": 232,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11248,
+    "knihy_id": 1215,
+    "osoby_id": 334,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11258,
+    "knihy_id": 393,
+    "osoby_id": 225,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11265,
+    "knihy_id": 1371,
+    "osoby_id": 40,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11270,
+    "knihy_id": 473,
+    "osoby_id": 101,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11281,
+    "knihy_id": 645,
+    "osoby_id": 246,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11288,
+    "knihy_id": 1465,
+    "osoby_id": 363,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11290,
+    "knihy_id": 984,
+    "osoby_id": 564,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11291,
+    "knihy_id": 373,
+    "osoby_id": 388,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11298,
+    "knihy_id": 1222,
+    "osoby_id": 353,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11300,
+    "knihy_id": 33,
+    "osoby_id": 527,
+    "poznamka": Zamluvená,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11305,
+    "knihy_id": 782,
+    "osoby_id": 28,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11327,
+    "knihy_id": 582,
+    "osoby_id": 429,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11328,
+    "knihy_id": 605,
+    "osoby_id": 130,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11330,
+    "knihy_id": 338,
+    "osoby_id": 285,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11338,
+    "knihy_id": 1202,
+    "osoby_id": 377,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11339,
+    "knihy_id": 1371,
+    "osoby_id": 278,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11362,
+    "knihy_id": 214,
+    "osoby_id": 246,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11368,
+    "knihy_id": 1145,
+    "osoby_id": 34,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11377,
+    "knihy_id": 390,
+    "osoby_id": 85,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11379,
+    "knihy_id": 415,
+    "osoby_id": 171,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11404,
+    "knihy_id": 513,
+    "osoby_id": 342,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11415,
+    "knihy_id": 876,
+    "osoby_id": 429,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11421,
+    "knihy_id": 756,
+    "osoby_id": 281,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11427,
+    "knihy_id": 312,
+    "osoby_id": 535,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11428,
+    "knihy_id": 1233,
+    "osoby_id": 4,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11440,
+    "knihy_id": 143,
+    "osoby_id": 487,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11446,
+    "knihy_id": 418,
+    "osoby_id": 445,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11481,
+    "knihy_id": 1052,
+    "osoby_id": 99,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11487,
+    "knihy_id": 1419,
+    "osoby_id": 383,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11492,
+    "knihy_id": 657,
+    "osoby_id": 71,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11501,
+    "knihy_id": 1201,
+    "osoby_id": 488,
+    "poznamka": K dispozici jen prezenčně,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11502,
+    "knihy_id": 28,
+    "osoby_id": 363,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11505,
+    "knihy_id": 1133,
+    "osoby_id": 559,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11507,
+    "knihy_id": 356,
+    "osoby_id": 118,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11524,
+    "knihy_id": 455,
+    "osoby_id": 342,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11531,
+    "knihy_id": 1031,
+    "osoby_id": 564,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11540,
+    "knihy_id": 1481,
+    "osoby_id": 421,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11553,
+    "knihy_id": 1192,
+    "osoby_id": 129,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11556,
+    "knihy_id": 285,
+    "osoby_id": 26,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11558,
+    "knihy_id": 1499,
+    "osoby_id": 367,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11561,
+    "knihy_id": 1448,
+    "osoby_id": 45,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11569,
+    "knihy_id": 673,
+    "osoby_id": 218,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11590,
+    "knihy_id": 471,
+    "osoby_id": 492,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11592,
+    "knihy_id": 646,
+    "osoby_id": 195,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11604,
+    "knihy_id": 937,
+    "osoby_id": 204,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11606,
+    "knihy_id": 1219,
+    "osoby_id": 241,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11607,
+    "knihy_id": 947,
+    "osoby_id": 74,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11614,
+    "knihy_id": 451,
+    "osoby_id": 199,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11627,
+    "knihy_id": 989,
+    "osoby_id": 143,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11637,
+    "knihy_id": 1484,
+    "osoby_id": 488,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11654,
+    "knihy_id": 1431,
+    "osoby_id": 53,
+    "poznamka": K dispozici jen prezenčně,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11658,
+    "knihy_id": 213,
+    "osoby_id": 56,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11661,
+    "knihy_id": 1153,
+    "osoby_id": 145,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11669,
+    "knihy_id": 1026,
+    "osoby_id": 56,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11671,
+    "knihy_id": 39,
+    "osoby_id": 242,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11674,
+    "knihy_id": 1011,
+    "osoby_id": 522,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11676,
+    "knihy_id": 1430,
+    "osoby_id": 100,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11684,
+    "knihy_id": 520,
+    "osoby_id": 333,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11709,
+    "knihy_id": 439,
+    "osoby_id": 529,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11712,
+    "knihy_id": 466,
+    "osoby_id": 444,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11715,
+    "knihy_id": 1431,
+    "osoby_id": 289,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11726,
+    "knihy_id": 117,
+    "osoby_id": 357,
+    "poznamka": Chybí některé strany,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11730,
+    "knihy_id": 1260,
+    "osoby_id": 553,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11733,
+    "knihy_id": 1500,
+    "osoby_id": 17,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11736,
+    "knihy_id": 1533,
+    "osoby_id": 280,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11737,
+    "knihy_id": 1514,
+    "osoby_id": 140,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11739,
+    "knihy_id": 1514,
+    "osoby_id": 539,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11754,
+    "knihy_id": 1212,
+    "osoby_id": 372,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11766,
+    "knihy_id": 411,
+    "osoby_id": 498,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11770,
+    "knihy_id": 433,
+    "osoby_id": 121,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11775,
+    "knihy_id": 1224,
+    "osoby_id": 486,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11779,
+    "knihy_id": 883,
+    "osoby_id": 432,
+    "poznamka": Chybí obsah,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11791,
+    "knihy_id": 875,
+    "osoby_id": 195,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11796,
+    "knihy_id": 372,
+    "osoby_id": 489,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11797,
+    "knihy_id": 1228,
+    "osoby_id": 388,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11803,
+    "knihy_id": 1379,
+    "osoby_id": 574,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11814,
+    "knihy_id": 1166,
+    "osoby_id": 575,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11824,
+    "knihy_id": 853,
+    "osoby_id": 67,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11827,
+    "knihy_id": 215,
+    "osoby_id": 487,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11828,
+    "knihy_id": 153,
+    "osoby_id": 254,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11835,
+    "knihy_id": 1234,
+    "osoby_id": 243,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11842,
+    "knihy_id": 64,
+    "osoby_id": 125,
+    "oddeleni_id": 5
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11848,
+    "knihy_id": 312,
+    "osoby_id": 128,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11858,
+    "knihy_id": 1443,
+    "osoby_id": 145,
+    "poznamka": Salátové vydání,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11866,
+    "knihy_id": 1302,
+    "osoby_id": 280,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11878,
+    "knihy_id": 1219,
+    "osoby_id": 40,
+    "poznamka": Chybí některé strany,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11883,
+    "knihy_id": 618,
+    "osoby_id": 558,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11885,
+    "knihy_id": 912,
+    "osoby_id": 394,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11890,
+    "knihy_id": 1128,
+    "osoby_id": 230,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11893,
+    "knihy_id": 476,
+    "osoby_id": 358,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11899,
+    "knihy_id": 1229,
+    "osoby_id": 458,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11934,
+    "knihy_id": 800,
+    "osoby_id": 428,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11936,
+    "knihy_id": 1516,
+    "osoby_id": 424,
+    "oddeleni_id": 6
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11937,
+    "knihy_id": 720,
+    "osoby_id": 224,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11938,
+    "knihy_id": 687,
+    "osoby_id": 306,
+    "oddeleni_id": 1
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11941,
+    "knihy_id": 268,
+    "osoby_id": 50,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11942,
+    "knihy_id": 1533,
+    "osoby_id": 53,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11943,
+    "knihy_id": 84,
+    "osoby_id": 143,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11948,
+    "knihy_id": 374,
+    "osoby_id": 400,
+    "poznamka": Chybí některé strany,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11973,
+    "knihy_id": 1258,
+    "osoby_id": 400,
+    "oddeleni_id": 3
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 11995,
+    "knihy_id": 244,
+    "osoby_id": 118,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 12009,
+    "knihy_id": 21,
+    "osoby_id": 101,
+    "oddeleni_id": 4
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 12012,
+    "knihy_id": 1005,
+    "osoby_id": 145,
+    "oddeleni_id": 2
+  }
+  "xkremece_exemplare":{
+    "exemplare_id": 12032,
+    "knihy_id": 682,
+    "osoby_id": 218,
+    "oddeleni_id": 2
+  }
+}
